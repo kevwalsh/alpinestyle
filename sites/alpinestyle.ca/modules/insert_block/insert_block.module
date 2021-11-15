@@ -1,0 +1,71 @@
+<?php
+// $Id: insert_block.module,v 1.4.2.1 2007/06/27 15:09:26 mlsamuelson Exp $
+
+function insert_block_filter_tips($delta, $format, $long = false) {
+  if ($long) {
+     return t('You may use <a href="@insert_block_help">[block:<em>module</em>=<em>delta</em>] tags</a> to display the contents of block <em>delta</em> for module <em>module</em>.', array("@insert_block_help" => url("filter/tips/$format", NULL, 'filter-insert_block')));
+  }
+  else {
+     return t('You may use <a href="@insert_block_help">[block:<em>module</em>=<em>delta</em>] tags</a> to display the contents of block <em>delta</em> for module <em>module</em>.', array("@insert_block_help" => url("filter/tips/$format", NULL, 'filter-insert_block')));
+  }
+}
+
+function insert_block_help($section = 'admin/help#insert_block') {
+  $output = '';
+  switch ($section) {
+    case 'admin/help#insert_block':
+      return t('<p>Inserts the contents of a block into into a node using [block:module=delta] tags.</p><p>You may use <a href="@insert_block_help">[block:<em>module</em>=<em>delta</em>] tags</a> to display the contents of block <em>delta</em> for module <em>module</em>.</p>', array("@insert_block_help" => url("filter/tips/$format", NULL, 'filter-insert_block')));
+  }
+}
+
+function insert_block_filter($op, $delta = 0, $format = -1, $text = '') {
+  // The "list" operation provides the module an opportunity to declare both how
+  // many filters it defines and a human-readable name for each filter. Note that
+  // the returned name should be passed through t() for translation.
+  if ($op == 'list') {
+    return array(
+      0 => t('insert block filter'));
+  }
+
+  // All operations besides "list" provide a $delta argument so we know which
+  // filter they refer to. We'll switch on that argument now so that we can
+  // discuss each filter in turn.
+  switch ($op) {
+    case 'description':
+       return t('Inserts the contents of a block into a node using [block:module=delta] tags.');
+    case 'prepare':
+       return $text;
+    case 'process':
+       return $text;
+  }
+}
+
+function insert_block_nodeapi(&$node, $op, $arg) {
+  if ($op == 'alter') {
+    $node->body = _insert_block_substitute_tags($node, 'body');
+    $node->teaser = _insert_block_substitute_tags($node, 'teaser');
+  }
+  if ($op == 'print') {
+    $node->content['body']['#value'] = _insert_block_substitute_tags($node, 'body');
+  }
+}
+
+function _insert_block_substitute_tags(&$node, $field) {
+    if (preg_match_all("/\[block:([^=\\]]+)=?([^\\]]*)?\]/i", $node->$field, $match)) {
+       foreach ($match[2] as $key => $value) {
+         $module = $match[1][$key];
+         $delta = $match[2][$key];
+
+         $block = module_invoke($module, 'block', 'view', $delta);
+         
+         $mtch[] = $match[0][$key];
+         $repl[] = theme('insert_block_block', $block);
+       }
+       return str_replace($mtch, $repl, $node->$field);
+    }
+    return $node->$field;
+}
+
+function theme_insert_block_block($block) {
+  return $block['content'];
+}

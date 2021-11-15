@@ -1,0 +1,8 @@
+; $Id: insert_block.info,v 1.1 2007/06/07 18:25:50 mlsamuelson Exp $
+name = Insert Block
+description = "Inserts the contents of a block into into a node using [block:module=delta] tags"
+; Information added by drupal.org packaging script on 2007-06-28
+version = "5.x-1.x-dev"
+project = "insert_block"
+datestamp = "1182989250"
+

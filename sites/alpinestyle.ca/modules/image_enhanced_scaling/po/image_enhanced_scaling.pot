@@ -1,0 +1,117 @@
+# LANGUAGE translation of Drupal (image_enhanced_scaling.module)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from file: image_enhanced_scaling.module,v 1.8 2007/01/08 21:30:54 zoo33
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2007-01-08 22:59+0100\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: image_enhanced_scaling.module:16;52
+msgid "Image Enhanced Scaling replaces the image scaling function used by the image module with one that gives a better image quality. This is achieved by applying a sharpness filter to the image derivatives and converting them to a suitable color profile."
+msgstr ""
+
+#: image_enhanced_scaling.module:17
+msgid "Note: this module requires that the Imagemagick framework provided by the image module is installed and properly configured. This involves moving the file <em>image.imagemagick.inc</em> from the image module's directory to the <em>includes</em> directory. See README.txt for more details."
+msgstr ""
+
+#: image_enhanced_scaling.module:18
+msgid "<p>You can</p>\n<ul>\n<li>view image handling messages and choose image toolkit in <a href=\"!admin-settings\">Administer &gt;&gt; Site configuration &gt;&gt; Image toolkit</a>.</li>\n<li>configure the sharpening filter and the color profile conversion at <a href=\"!admin-settings-enhancedimagescaling\">Administer &gt;&gt; Site configuration &gt;&gt; Image enhanced scaling</a>.</li>\n</ul>\n"
+msgstr ""
+
+#: image_enhanced_scaling.module:35 image_enhanced_scaling.info:0
+msgid "Image enhanced scaling"
+msgstr ""
+
+#: image_enhanced_scaling.module:36
+msgid "Configure the image sharening filter and the color profile conversion."
+msgstr ""
+
+#: image_enhanced_scaling.module:52
+msgid "Note: changing any of these settings will cause all image derivatives to be rebuilt next time they are accessed."
+msgstr ""
+
+#: image_enhanced_scaling.module:58
+msgid "General"
+msgstr ""
+
+#: image_enhanced_scaling.module:62
+msgid "Enable enhanced scaling"
+msgstr ""
+
+#: image_enhanced_scaling.module:64
+msgid "You can disable the enhanced scaling functionality if you wish to have the module enabled but inactive, to keep it's scaling API available for other modules."
+msgstr ""
+
+#: image_enhanced_scaling.module:69
+msgid "Sharpening filter"
+msgstr ""
+
+#: image_enhanced_scaling.module:70
+msgid "The sharpness filter is used to regain some of the sharpness that is always lost when a digital photograph is scaled down. This is equivalent to the commonly used \"Unsharp Mask\" filter. It is important that these values are not set too high as it can easily make the images look artificial."
+msgstr ""
+
+#: image_enhanced_scaling.module:74
+msgid "Sharpness filter strength"
+msgstr ""
+
+#: image_enhanced_scaling.module:78
+msgid "Apply this percentage of sharpness when scaling. 90 is recommended, although values higher than 100 are also valid."
+msgstr ""
+
+#: image_enhanced_scaling.module:82
+msgid "Sharpness filter radius"
+msgstr ""
+
+#: image_enhanced_scaling.module:86
+msgid "Use this pixel radius for the sharpness filter. 0.9 is recommended."
+msgstr ""
+
+#: image_enhanced_scaling.module:91
+msgid "Color profile"
+msgstr ""
+
+#: image_enhanced_scaling.module:92
+msgid "Scaled images may be converted to a color profile specified here. This is especially important when working with images that use a wide-gamut color profile such as ColorMatch or Adobe RGB, which is often the case with professional photography. sRGB (which may be downloaded from <a href=\"http://www.color.org/profiles.html\">ICC</a>) is recommended since it is likely to look good on most displays."
+msgstr ""
+
+#: image_enhanced_scaling.module:96
+msgid "Path to color profile"
+msgstr ""
+
+#: image_enhanced_scaling.module:98
+msgid "The path to a color profile file that all scaled down images will be converted to. Leave empty to disable."
+msgstr ""
+
+#: image_enhanced_scaling.module:133
+msgid "Unable to create %label image"
+msgstr ""
+
+#: image_enhanced_scaling.module:175
+msgid "The image module must be installed and enabled in order for Image enhanced scaling to work."
+msgstr ""
+
+#: image_enhanced_scaling.module:180
+msgid "The ImageMagick toolkit needs to be installed and enabled in order for Image enhanced scaling to work. See the <a href=\"!image_enhanced_scaling_help\">Image enhanced scaling help section</a> for more info."
+msgstr ""
+
+#: image_enhanced_scaling.module:0
+msgid "image_enhanced_scaling"
+msgstr ""
+
+#: image_enhanced_scaling.info:0
+msgid "Provides better image derivatives by converting them to a chosen color profile and applying a sharpness filter."
+msgstr ""
+
+#: image_enhanced_scaling.info:0
+msgid "Image"
+msgstr ""
+

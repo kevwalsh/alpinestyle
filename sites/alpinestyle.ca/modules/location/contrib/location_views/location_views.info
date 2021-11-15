@@ -1,0 +1,12 @@
+; $Id: location_views.info,v 1.2 2007/02/09 16:25:03 karens Exp $
+name = Location Views
+description = Views-enables the node location fields and creates default location views. User location fields are views-enabled if usernode is installed.
+version = "$Name: DRUPAL-5 $"
+package = Location
+dependencies = location views
+
+; Information added by drupal.org packaging script on 2007-06-04
+version = "5.x-1.x-dev"
+project = "location"
+datestamp = "1180958968"
+

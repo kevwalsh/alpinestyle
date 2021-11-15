@@ -1,0 +1,10 @@
+; $Id$
+name = Image enhanced scaling
+description = Provides better image derivatives by converting them to a chosen color profile and applying a sharpness filter.
+dependencies = image
+package = Image
+
+; Information added by drupal.org packaging script on 2007-01-26
+version = "5.x-1.x-dev"
+project = "image_enhanced_scaling"
+

@@ -1,0 +1,94 @@
+8
+
+dir
+176
+https://svn.civicactions.net/repos/c4fcm/trunk/modules/contrib-stable/mollom
+https://svn.civicactions.net/repos/c4fcm
+
+
+
+2008-10-14T09:43:52.293117Z
+70
+kev
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d828c10a-04d2-49fa-92ca-f74292e17eb3
+
+mollom.module
+file
+
+
+
+
+2008-10-28T12:10:50.000000Z
+7b3d81353fa0b294dbf1e8f0fa3d3edf
+2008-10-14T09:43:52.293117Z
+70
+kev
+
+INSTALL.txt
+file
+
+
+
+
+2008-10-28T12:10:50.000000Z
+3f0ee9d8ef03541ce5fdd5da9eeb35b3
+2008-10-14T09:43:52.293117Z
+70
+kev
+
+mollom.install
+file
+
+
+
+
+2008-10-28T12:10:50.000000Z
+522a7446ca55453348dfb2322d29dfa0
+2008-10-14T09:43:52.293117Z
+70
+kev
+
+mollom.info
+file
+
+
+
+
+2008-10-28T12:10:50.000000Z
+744a221ded2d7f69c991fd0a93f991b5
+2008-10-14T09:43:52.293117Z
+70
+kev
+
+mollom.js
+file
+
+
+
+
+2008-10-28T12:10:50.000000Z
+5011e2d56b7a1b4ae2c2b803c156be87
+2008-10-14T09:43:52.293117Z
+70
+kev
+
+CVS
+dir
+
+po
+dir
+

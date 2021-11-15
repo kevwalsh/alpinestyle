@@ -1,0 +1,5 @@
+; $Id: taxonomy_list.info,v 1.1 2006/11/13 08:34:43 boogiebug Exp $
+name = Taxonomy List
+description = "List terms under a specific vocabulary"
+dependencies = "taxonomy"
+package = "Core - optional"
