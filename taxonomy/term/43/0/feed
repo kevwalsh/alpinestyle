@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Alpine Style - Rafael</title>
+ <link>http://jon.dev10.webenabled.net/taxonomy/term/43/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Patagonia 2005: New routes on Fitz Roy, Descmochada, and Rafael</title>
+ <link>http://jon.dev10.webenabled.net/2007/10/25/patagonia_2005_new_routes_on_fitz_roy_descmochada_and_rafael</link>
+ <description>&lt;p&gt;
+Argentine Patagonia summary from January and February 2005 Fitz Roy and
+Aguja Rafael, New Routes. Paul McSorley and I rolled in to Patagonia at
+the end of January, just in time for the start of three weeks of mostly
+excellent climbing weather. We immediately hiked to Paso Superior with
+the intentions of finding an unclimbed line on the south or east face
+of Fitz Roy. After seven sweet early-morning pitches up La Brecha, we
+saw an obvious line of beautiful clean corners splitting the south
+face, just left of the Boris Simoncic Route (ED-: 5.9 A2 55°, 650m,
+&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/10/25/patagonia_2005_new_routes_on_fitz_roy_descmochada_and_rafael&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
+ <category domain="http://jon.dev10.webenabled.net/locations/desmochada">Desmochada</category>
+ <category domain="http://jon.dev10.webenabled.net/locations/fitz_roy">Fitz Roy</category>
+ <category domain="http://jon.dev10.webenabled.net/locations/patagonia">Patagonia</category>
+ <category domain="http://jon.dev10.webenabled.net/locations/rafael">Rafael</category>
+ <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <pubDate>Thu, 25 Oct 2007 16:21:30 +0000</pubDate>
+ <dc:creator>jon walsh</dc:creator>
+ <guid isPermaLink="false">55 at http://jon.dev10.webenabled.net</guid>
+</item>
+</channel>
+</rss>

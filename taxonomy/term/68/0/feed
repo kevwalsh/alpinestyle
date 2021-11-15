@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Alpine Style - Mt. MacDonald</title>
+ <link>http://jon.dev10.webenabled.net/taxonomy/term/68/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Mt. MacDonald&#039;s &quot;little face&quot; and the F.A. of &quot;Prime Rib&quot;</title>
+ <link>http://jon.dev10.webenabled.net/2007/11/07/mt_macdonalds_little_face_and_the_f_a_of_prime_rib</link>
+ <description>&lt;p&gt;
+&lt;img src=&quot;/files/MtMcdonaldroutelines_0.jpg&quot; /&gt;
+&lt;/p&gt;
+&lt;p&gt;
+PRIME RIB  ★★★ 5.11b 600 m, Colin Moorhead, Jon Walsh - June 26 2004 Mt. Mcdonald&#039;s Little Face, Rogers Pass B.C.
+&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/11/07/mt_macdonalds_little_face_and_the_f_a_of_prime_rib&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://jon.dev10.webenabled.net/locations/mt_macdonald_0">Mt. MacDonald</category>
+ <category domain="http://jon.dev10.webenabled.net/locations/selkirks">Selkirks</category>
+ <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <enclosure url="http://jon.dev10.webenabled.net/sites/default/files/sites/alpinestyle.ca/files/MtMcdonaldroutelines_0.jpg" length="263297" type="image/jpeg" />
+ <pubDate>Wed, 07 Nov 2007 13:01:35 +0000</pubDate>
+ <dc:creator>jon walsh</dc:creator>
+ <guid isPermaLink="false">72 at http://jon.dev10.webenabled.net</guid>
+</item>
+</channel>
+</rss>

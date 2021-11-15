@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Alpine Style - Mt Alberta</title>
+ <link>http://jon.dev10.webenabled.net/taxonomy/term/25/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Alpinist Volume 19: &quot;In a Push&quot;</title>
+ <link>http://jon.dev10.webenabled.net/articles/2007/11/05/alpinist_volume_19_in_a_push</link>
+ <description>&lt;a href=&quot;/files/InAPush.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/files/inapush.jpg&quot; align=&quot;left&quot; height=&quot;354&quot; width=&quot;528&quot; /&gt;&lt;/a&gt;My feature article about climbing the north face of Mt Alberta last September with Chris Brazeau was published in &lt;a href=&quot;http://www.alpinist.com/doc/ALP19/features-in-a-push-walsh&quot;&gt;The Alpinist Volume 19&lt;/a&gt;, a few months ago. 
+&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/articles/2007/11/05/alpinist_volume_19_in_a_push&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
+ <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="http://jon.dev10.webenabled.net/locations/mt_alberta">Mt Alberta</category>
+ <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <pubDate>Mon, 05 Nov 2007 18:41:25 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">69 at http://jon.dev10.webenabled.net</guid>
+</item>
+<item>
+ <title>Mt Alberta North Face</title>
+ <link>http://jon.dev10.webenabled.net/2007/09/22/mt_alberta_north_face</link>
+ <description>Mt. Alberta North Face
+The climb:  We soloed the shrund (which was easy), and simulclimbed to the traverse ledge where we unroped.  After the bulk of the icefield, we angled right and traversed below a rib of the yellow band and found short WI 3 steps through it, that led to the base of the headwall, and a obvious natural system of grooves and corners.  Here we roped up and swapped leads to the summit.  The headwall pitches are described as follows:
+Pitch 1 - 25m: up the left facing corner (shattered rock) and slightly right to a small stance before the next corner... M6
+&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/09/22/mt_alberta_north_face&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
+ <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="http://jon.dev10.webenabled.net/locations/mt_alberta">Mt Alberta</category>
+ <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <pubDate>Sat, 22 Sep 2007 16:16:42 +0000</pubDate>
+ <dc:creator>jon walsh</dc:creator>
+ <guid isPermaLink="false">47 at http://jon.dev10.webenabled.net</guid>
+</item>
+<item>
+ <title>Mt. Alberta, crux</title>
+ <link>http://jon.dev10.webenabled.net/photos/mt_alberta_crux</link>
+ <description>Chris Brazeau on the 5.11 crux of a new route on the North Face of Mt. Alberta.
+</description>
+ <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
+ <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="http://jon.dev10.webenabled.net/locations/mt_alberta">Mt Alberta</category>
+ <pubDate>Sat, 06 Jan 2007 22:45:37 +0000</pubDate>
+ <dc:creator>jon walsh</dc:creator>
+ <guid isPermaLink="false">38 at http://jon.dev10.webenabled.net</guid>
+</item>
+<item>
+ <title>The north face of Mt. Alberta</title>
+ <link>http://jon.dev10.webenabled.net/photos/alpine_climbing/the_north_face_of_mt_alberta</link>
+ <description>Chris Brazeau reaching the second belay stance on the headwall of a new route on the North Face of Mt. Alberta.  It was also the first free and first one day ascent of this 1000 meter face.
+</description>
+ <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
+ <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="http://jon.dev10.webenabled.net/locations/mt_alberta">Mt Alberta</category>
+ <pubDate>Sat, 06 Jan 2007 16:58:05 +0000</pubDate>
+ <dc:creator>jon walsh</dc:creator>
+ <guid isPermaLink="false">16 at http://jon.dev10.webenabled.net</guid>
+</item>
+</channel>
+</rss>

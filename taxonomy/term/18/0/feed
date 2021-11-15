@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Alpine Style - Pakistan</title>
+ <link>http://jon.dev10.webenabled.net/taxonomy/term/18/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Choktoi Glacier 2006</title>
+ <link>http://jon.dev10.webenabled.net/2007/10/31/choktoi_glacier_2006</link>
+ <description>&lt;p&gt;
+Near the end of June 2006, Jeff Relph and I found ourselves at 6800 meters getting thoroughly abused by vicious snow and avalanches on a new-route attempt on the southeast buttress of the Ogre (7285m). We made it down safely, but there was not enough time for a second attempt.&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/10/31/choktoi_glacier_2006&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://jon.dev10.webenabled.net/locations/pakistan">Pakistan</category>
+ <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <enclosure url="http://jon.dev10.webenabled.net/sites/default/files/sites/alpinestyle.ca/files/ogre.jpg" length="48167" type="image/jpeg" />
+ <pubDate>Wed, 31 Oct 2007 10:58:08 +0000</pubDate>
+ <dc:creator>jon walsh</dc:creator>
+ <guid isPermaLink="false">62 at http://jon.dev10.webenabled.net</guid>
+</item>
+<item>
+ <title>Ogre approach</title>
+ <link>http://jon.dev10.webenabled.net/photos/ogre_approach</link>
+ <description>We needed to wait until midnight for the Choktoi Glacier to freeze, in order to hump our loads to the base of the Ogre&#039;s SE ridge.  I left my camera on a tripod while we made the two hour return trip from ABC.  The light on the summit of the Ogre is from the moon.  Karakorum Range, Pakistan.
+</description>
+ <category domain="http://jon.dev10.webenabled.net/landscape_photography">Landscape photography</category>
+ <category domain="http://jon.dev10.webenabled.net/locations/pakistan">Pakistan</category>
+ <category domain="http://jon.dev10.webenabled.net/locations/the_ogre">The Ogre</category>
+ <pubDate>Mon, 08 Jan 2007 18:05:39 +0000</pubDate>
+ <dc:creator>jon walsh</dc:creator>
+ <guid isPermaLink="false">40 at http://jon.dev10.webenabled.net</guid>
+</item>
+<item>
+ <title>Base Camp, Choktoi Glacier</title>
+ <link>http://jon.dev10.webenabled.net/photos/pakistan/base_camp_choktoi_glacier</link>
+ <description>Base camp on the Choktoi Glacier, Pakistan, during an expedition to climb the Ogre (7285m), the sharp peak below the full moon.
+</description>
+ <category domain="http://jon.dev10.webenabled.net/landscape_photography">Landscape photography</category>
+ <category domain="http://jon.dev10.webenabled.net/locations/pakistan">Pakistan</category>
+ <pubDate>Sat, 06 Jan 2007 17:34:52 +0000</pubDate>
+ <dc:creator>jon walsh</dc:creator>
+ <guid isPermaLink="false">22 at http://jon.dev10.webenabled.net</guid>
+</item>
+<item>
+ <title>Choktoi Summit</title>
+ <link>http://jon.dev10.webenabled.net/photos/alpine_climbing/choktoi_summit</link>
+ <description>Jeff Relph reaching the virgin summit of Choktoi Spire, a 5900 meter nunatuk on the Choktoi Glacier.  This was a consolation prize for us after an attempt on the still unclimbed, South East ridge of the Ogre, Karakorum range, Pakistan.
+</description>
+ <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
+ <category domain="http://jon.dev10.webenabled.net/locations/pakistan">Pakistan</category>
+ <pubDate>Thu, 04 Jan 2007 07:21:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">3 at http://jon.dev10.webenabled.net</guid>
+</item>
+</channel>
+</rss>
