@@ -2,12 +2,12 @@
 <rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>Alpine Style - First Ascent</title>
- <link>http://jon.dev10.webenabled.net/taxonomy/term/41/0</link>
+ <link>/taxonomy/term/41/0</link>
  <description></description>
  <language>en</language>
 <item>
  <title>Two new routes in a weekend! </title>
- <link>http://jon.dev10.webenabled.net/2016/08/24/two_new_routes_in_a_weekend</link>
+ <link>/2016/08/24/two_new_routes_in_a_weekend</link>
  <description>&lt;p&gt;
 A lot can be done in with some motivation and a good partner.  Colin Moorhead and I rolled out of golden at 6pm on friday August 19th, bound for the Bugaboos.  51 hours later, we were back having completed two new multi-pitch routes routes!   The stories and beta for “Minotaur Direct” and “Sick and Twisted” are below.  &lt;br /&gt;
 &lt;br /&gt;
@@ -136,16 +136,16 @@ Michelle Kadatz on P11 of Minotaur direct, 5.11a
 &amp;nbsp;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/bugaboos">Bugaboos</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/alpine_climbing">Alpine climbing</category>
+ <category domain="/locations/bugaboos">Bugaboos</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Wed, 24 Aug 2016 03:52:24 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">119 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>The Cupcake Conspiracy</title>
- <link>http://jon.dev10.webenabled.net/2016/06/21/the_cupcake_conspiracy</link>
+ <link>/2016/06/21/the_cupcake_conspiracy</link>
  <description>&lt;img src=&quot;/sites/default/files/Cupcake.jpg&quot; /&gt;
 &lt;p&gt;
 The Cupcake Conspiracy
@@ -176,16 +176,16 @@ Pitch 4, 5.10b 10 bolts, 35-meters.  Prickly featured holds lead up perfect gre
 Pitch 5, 5.10d 11 bolts, 35-meters.  Straightforward face climbing to the rim.    
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/the_ghost_river">The Ghost River</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/rock_climbing">Rock climbing</category>
+ <category domain="/locations/the_ghost_river">The Ghost River</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Tue, 21 Jun 2016 03:23:12 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">118 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>The East face of Snowpatch, the gift that keeps on giving</title>
- <link>http://jon.dev10.webenabled.net/2015/08/05/the_east_face_of_snowpatch_the_gift_that_keeps_on_giving</link>
+ <link>/2015/08/05/the_east_face_of_snowpatch_the_gift_that_keeps_on_giving</link>
  <description>&lt;p&gt;
 Over the last decade or so, the 500-meter high East face of Snowpatch Spire has been transforming into one of the finest alpine rock faces in North America.  What used to be a face known primarily as an aid climbing venue, is now covered in free-climbing lines, although mostly difficult ones, usually reqiuring at least a couple pitches of 5.12.  But perhaps the most amazing thing about it is that almost every pitch is good!  I don&#039;t think there&#039;s another mountain in western Canada that can boast that!  Like a big crag offering pure rock climbing in the alpine, it offers an easy approach from the nearby campground, belays on most routes are mostly bolted, there are no &amp;quot;approach&amp;quot; pitches, and there&#039;s no tedious summit ridge.   The climbing is almost entirely traditionally protected, although most routes have a few protection bolts where cracks need to be conected by face moves, and face holds are plentiful.    It has been one of my favorite zones for over ten years now. 
 &lt;/p&gt;
@@ -301,16 +301,16 @@ One set of nuts&lt;br /&gt;
 &lt;br /&gt;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/bugaboos">Bugaboos</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/alpine_climbing">Alpine climbing</category>
+ <category domain="/locations/bugaboos">Bugaboos</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Wed, 05 Aug 2015 01:39:39 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">116 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Kahveology</title>
- <link>http://jon.dev10.webenabled.net/2015/01/26/kahveology</link>
+ <link>/2015/01/26/kahveology</link>
  <description>&lt;p&gt;
 KAHVEOLOGY - (The science of coffee)&lt;br /&gt;
 160m, M8 WI5  First ascent by Jon Simms and Jon Walsh, Jan 23rd, 2015
@@ -415,18 +415,18 @@ Pitch 4:  25m WI4 - Straight forward ice climbing.  The bolted anchor is about
 &lt;br /&gt;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/locations/kootenay_national_park">Kootenay National Park</category>
- <category domain="http://jon.dev10.webenabled.net/locations/storm_creek_headwall">Storm Creek Headwall</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/locations/kootenay_national_park">Kootenay National Park</category>
+ <category domain="/locations/storm_creek_headwall">Storm Creek Headwall</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Mon, 26 Jan 2015 04:47:10 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">115 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>East Creek</title>
- <link>http://jon.dev10.webenabled.net/2014/08/14/east_creek_0</link>
+ <link>/2014/08/14/east_creek_0</link>
  <description>&lt;p&gt;
 Michelle Kadatz, Paul Bride and I flew in a heli into East Creek (the West side of the Bugaboos) for a few days last week.  Paul was psyched to shoot landscape photos while Michelle and I checked out some of the incredible rock in the Pigeon feathers.  Although there are quite a few routes here described in the guidebook, the Pigeon Feathers remain a slightly more obscure corner of the Bugs, despite their amazing quality, and proximity to a great camp.  Upon landing, we hiked around until we found something that was really inspiring - some unclimbed splitters on Wide Awake Tower, slightly right of the original Wide Awake route.  
 &lt;/p&gt;
@@ -550,16 +550,16 @@ Rappel notes: easy down-climbing about 5-meters off the summit to a slung block 
 &lt;br /&gt;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/bugaboos">Bugaboos</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/alpine_climbing">Alpine climbing</category>
+ <category domain="/locations/bugaboos">Bugaboos</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Thu, 14 Aug 2014 04:55:10 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">112 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Spirits of Asgard</title>
- <link>http://jon.dev10.webenabled.net/2013/08/12/spirits_of_asgard</link>
+ <link>/2013/08/12/spirits_of_asgard</link>
  <description>&lt;p&gt;
 It&#039;s been a busy summer as always and I&#039;m getting behind on updating this blog.  About six weeks ago, the video &lt;a href=&quot;http://vimeo.com/70149174&quot;&gt;Spirits of Asgard&lt;/a&gt; was released, and has been very well received.  It&#039;s been posted to Outside Television, as well as received a Vimeo Staff pick, so it&#039;s recieved a lot of views, which is pretty cool!  A huge congratulations to &lt;a href=&quot;http://joshualavigne.com/&quot;&gt;Joshua Lavigne&lt;/a&gt; for producing it.  Check his website for more photos of the trip as well as the July / August 2013 issue of Gripped which features some pics and a 2500 word story I wrote about it.  Josh&#039;s words and images are also shared in the 2013 Canadian Alpine Journal.  Although the video covers the &amp;quot;darker&amp;quot; aspects of our trip, such as a couple of close calls we had, it was very a fun and successful trip.  Some photos and stories have been shared here on a blog post from last August, but I thought I&#039;d take a few a minutes to share a few more images as I link the the video here, as an attempt to share a greater visual tour of the amazing landscape Baffin has to offer.  
 &lt;/p&gt;
@@ -667,16 +667,16 @@ Josh getting western, a couple ofpitches below the summit
 Ines at base camp below Asgard. 
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/baffin">Baffin</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/alpine_climbing">Alpine climbing</category>
+ <category domain="/locations/baffin">Baffin</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Mon, 12 Aug 2013 23:10:00 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">107 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Check Your Head</title>
- <link>http://jon.dev10.webenabled.net/2012/12/01/check_your_head</link>
+ <link>/2012/12/01/check_your_head</link>
  <description>&lt;p&gt;
 &lt;img src=&quot;/sites/default/files/GetInline.jpg&quot; /&gt; 
 &lt;/p&gt;
@@ -726,16 +726,16 @@ Two different angles of the climb, showing the belays and rappel stations
 &amp;nbsp;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Sat, 01 Dec 2012 14:52:12 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">96 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>New Routing on Mt. Asgard</title>
- <link>http://jon.dev10.webenabled.net/2012/08/22/new_routing_on_mt_asgard</link>
+ <link>/2012/08/22/new_routing_on_mt_asgard</link>
  <description>&lt;style&gt;
 &lt;!--
 /* Font Definitions */
@@ -1271,15 +1271,15 @@ Josh hiking in damp and misty conditions on the trail out
 &amp;nbsp;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/locations/baffin">Baffin</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/locations/baffin">Baffin</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Wed, 22 Aug 2012 01:30:16 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">94 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Man Yoga</title>
- <link>http://jon.dev10.webenabled.net/2011/11/16/man_yoga</link>
+ <link>/2011/11/16/man_yoga</link>
  <description>&lt;p&gt;
 Dec.5 Update: To see Joshua Lavigne&#039;s nicely shot and edited 10 minute Man Yoga video, click&lt;a href=&quot;http://vimeo.com/33005769&quot;&gt;&lt;b&gt;&lt;i&gt; here  &lt;/i&gt;&lt;/b&gt;&lt;/a&gt;
 &lt;/p&gt;
@@ -1373,16 +1373,16 @@ Screws:  7 - 10 including stubbies.  I guess the number depends on your comfor
 Enjoy! 
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Wed, 16 Nov 2011 02:54:55 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">90 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Minataur</title>
- <link>http://jon.dev10.webenabled.net/2011/10/26/minataur</link>
+ <link>/2011/10/26/minataur</link>
  <description>&lt;br /&gt;
 &lt;p&gt;
 Well it&#039;s been a busy fall trying to make some money for the winter and moving, but everything is falling into place as the temps drop and the snow and ice begin to appear  I can hardly wait to finish up some old projects and start some new ones.  My foot has nicely healed from the Twin and is ready to charge agian. 
@@ -1477,15 +1477,15 @@ Unfortunately we didn&#039;t get any pictures of the next two sensational pitche
 &amp;nbsp;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/locations/bugaboos">Bugaboos</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/locations/bugaboos">Bugaboos</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Wed, 26 Oct 2011 03:18:41 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">89 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Bugaboos 2011 - fisrt ascents, first free ascents, obscure repeats, good times... </title>
- <link>http://jon.dev10.webenabled.net/2011/09/05/bugaboos_2011_fisrt_ascents_first_free_ascents_obscure_repeats_good_times</link>
+ <link>/2011/09/05/bugaboos_2011_fisrt_ascents_first_free_ascents_obscure_repeats_good_times</link>
  <description>&lt;p&gt;
 As usual, the Bugaboos feed my stoke.  I&#039;ve been in there four times this year, and so far there have been four highlights.  All have been ascents of rarely climbed, somewhat obscure routes, and all have been shared with a different, extremely talented partners whom I feel  fortunate to be friends with.  And of course it&#039;s always good to see all the usual suspects that make annual pilgrimages to Applebee Camp, and share some fine single malts and stories of their adventures too.  It&#039;s part of what I look forward to when I go to the Bugs.  It&#039;s funny how some folk you don&#039;t see for a year but then see on a regular basis between climibng sessions.  Both the comraderie and epic adventures are the key ingredients that make the Bugs my favorite venue.  Anyways...  THe highlights:
 &lt;/p&gt;
@@ -1545,17 +1545,17 @@ Colin Moorhead was back in hood after an absence of several years, and we were s
 &lt;img src=&quot;/sites/default/files/Bugs-Snowpatch%20e%20face%20low%20res%20copy.jpg&quot; /&gt;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/bugaboos">Bugaboos</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
- <enclosure url="http://jon.dev10.webenabled.net/sites/default/files/North Howser overview2 copy.jpg" length="303042" type="image/jpeg" />
+ <category domain="/rock_climbing">Rock climbing</category>
+ <category domain="/locations/bugaboos">Bugaboos</category>
+ <category domain="/first_ascents">First Ascent</category>
+ <enclosure url="/sites/default/files/North Howser overview2 copy.jpg" length="303042" type="image/jpeg" />
  <pubDate>Mon, 05 Sep 2011 03:43:03 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">87 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Bugaboos - Sendero Norte and Labyrinth</title>
- <link>http://jon.dev10.webenabled.net/2011/08/20/bugaboos_sendero_norte_and_labyrinth</link>
+ <link>/2011/08/20/bugaboos_sendero_norte_and_labyrinth</link>
  <description>&lt;p&gt;
 Ahh the Bugaboos.  My all time favorite place to crank!!  It&#039;s been yet another fine summer cranking in there and I&#039;ll share some photos and stories soon of a few big wall free climbing highlights.  But first of all, a lot of people have been asking for information on &lt;b&gt;Sendero Norte&lt;/b&gt;, a route that Chris Brazeau and I put up a few years ago.  So here it is, along with &lt;b&gt;Labyrinth&lt;/b&gt;, another route I authored with Jon Simms and also a superb climb up fourteen pitches of splitter granite.    
 &lt;/p&gt;
@@ -1578,84 +1578,84 @@ Some photos of Sendero exist under an old post called Bugaboos project or in an 
 &amp;nbsp;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/bugaboos">Bugaboos</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/rock_climbing">Rock climbing</category>
+ <category domain="/locations/bugaboos">Bugaboos</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Sat, 20 Aug 2011 04:47:38 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">86 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Mt. MacDonald&#039;s &quot;little face&quot; and the F.A. of &quot;Prime Rib&quot;</title>
- <link>http://jon.dev10.webenabled.net/2007/11/07/mt_macdonalds_little_face_and_the_f_a_of_prime_rib</link>
+ <link>/2007/11/07/mt_macdonalds_little_face_and_the_f_a_of_prime_rib</link>
  <description>&lt;p&gt;
 &lt;img src=&quot;/files/MtMcdonaldroutelines_0.jpg&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 PRIME RIB  ★★★ 5.11b 600 m, Colin Moorhead, Jon Walsh - June 26 2004 Mt. Mcdonald&#039;s Little Face, Rogers Pass B.C.
-&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/11/07/mt_macdonalds_little_face_and_the_f_a_of_prime_rib&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/locations/mt_macdonald_0">Mt. MacDonald</category>
- <category domain="http://jon.dev10.webenabled.net/locations/selkirks">Selkirks</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
- <enclosure url="http://jon.dev10.webenabled.net/sites/default/files/sites/alpinestyle.ca/files/MtMcdonaldroutelines_0.jpg" length="263297" type="image/jpeg" />
+&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;/2007/11/07/mt_macdonalds_little_face_and_the_f_a_of_prime_rib&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/locations/mt_macdonald_0">Mt. MacDonald</category>
+ <category domain="/locations/selkirks">Selkirks</category>
+ <category domain="/first_ascents">First Ascent</category>
+ <enclosure url="/sites/default/files/sites/alpinestyle.ca/files/MtMcdonaldroutelines_0.jpg" length="263297" type="image/jpeg" />
  <pubDate>Wed, 07 Nov 2007 13:01:35 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">72 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Alpinist Volume 19: &quot;In a Push&quot;</title>
- <link>http://jon.dev10.webenabled.net/articles/2007/11/05/alpinist_volume_19_in_a_push</link>
+ <link>/articles/2007/11/05/alpinist_volume_19_in_a_push</link>
  <description>&lt;a href=&quot;/files/InAPush.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/files/inapush.jpg&quot; align=&quot;left&quot; height=&quot;354&quot; width=&quot;528&quot; /&gt;&lt;/a&gt;My feature article about climbing the north face of Mt Alberta last September with Chris Brazeau was published in &lt;a href=&quot;http://www.alpinist.com/doc/ALP19/features-in-a-push-walsh&quot;&gt;The Alpinist Volume 19&lt;/a&gt;, a few months ago. 
-&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/articles/2007/11/05/alpinist_volume_19_in_a_push&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/locations/mt_alberta">Mt Alberta</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+&lt;p&gt;&lt;a href=&quot;/articles/2007/11/05/alpinist_volume_19_in_a_push&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/alpine_climbing">Alpine climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/locations/mt_alberta">Mt Alberta</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Mon, 05 Nov 2007 18:41:25 +0000</pubDate>
  <dc:creator>admin</dc:creator>
  <guid isPermaLink="false">69 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Bugaboo project...</title>
- <link>http://jon.dev10.webenabled.net/2007/11/02/bugaboo_project</link>
+ <link>/2007/11/02/bugaboo_project</link>
  <description>&lt;p&gt;
-&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/11/02/bugaboo_project&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/bugaboos">Bugaboos</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+&lt;p&gt;&lt;a href=&quot;/2007/11/02/bugaboo_project&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/rock_climbing">Rock climbing</category>
+ <category domain="/locations/bugaboos">Bugaboos</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Fri, 02 Nov 2007 10:00:42 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">68 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Devil&#039;s Thumb</title>
- <link>http://jon.dev10.webenabled.net/2007/11/02/devils_thumb</link>
- <description>Four years ago on an expedition to make the first ascent of the nearby Oasis Peak, Dieter Klose planted a seed: the complete traverse of the Witches Tits, Cats Ears and Devils Thumb. This seed grew into a dream that blossomed into reality in July, when Andre Ike and I were deposited below the east ridge of the Thumb by helicopter. A week of mostly bad weather followed, with just enough sun to advance a camp and scope the logistics of our mission. Finally the skies cleared, and we set off with three days of food and high hopes for the splitter, white granite we had seen from the heli.&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/11/02/devils_thumb&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/alaska">Alaska</category>
- <category domain="http://jon.dev10.webenabled.net/locations/devils_thumb">Devil&amp;#039;s Thumb</category>
- <category domain="http://jon.dev10.webenabled.net/locations/stikine">Stikine</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <link>/2007/11/02/devils_thumb</link>
+ <description>Four years ago on an expedition to make the first ascent of the nearby Oasis Peak, Dieter Klose planted a seed: the complete traverse of the Witches Tits, Cats Ears and Devils Thumb. This seed grew into a dream that blossomed into reality in July, when Andre Ike and I were deposited below the east ridge of the Thumb by helicopter. A week of mostly bad weather followed, with just enough sun to advance a camp and scope the logistics of our mission. Finally the skies cleared, and we set off with three days of food and high hopes for the splitter, white granite we had seen from the heli.&lt;p&gt;&lt;a href=&quot;/2007/11/02/devils_thumb&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/alpine_climbing">Alpine climbing</category>
+ <category domain="/locations/alaska">Alaska</category>
+ <category domain="/locations/devils_thumb">Devil&amp;#039;s Thumb</category>
+ <category domain="/locations/stikine">Stikine</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Fri, 02 Nov 2007 09:38:32 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">67 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Choktoi Glacier 2006</title>
- <link>http://jon.dev10.webenabled.net/2007/10/31/choktoi_glacier_2006</link>
+ <link>/2007/10/31/choktoi_glacier_2006</link>
  <description>&lt;p&gt;
 Near the end of June 2006, Jeff Relph and I found ourselves at 6800 meters getting thoroughly abused by vicious snow and avalanches on a new-route attempt on the southeast buttress of the Ogre (7285m). We made it down safely, but there was not enough time for a second attempt.&lt;br /&gt;
-&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/10/31/choktoi_glacier_2006&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/locations/pakistan">Pakistan</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
- <enclosure url="http://jon.dev10.webenabled.net/sites/default/files/sites/alpinestyle.ca/files/ogre.jpg" length="48167" type="image/jpeg" />
+&lt;p&gt;&lt;a href=&quot;/2007/10/31/choktoi_glacier_2006&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/locations/pakistan">Pakistan</category>
+ <category domain="/first_ascents">First Ascent</category>
+ <enclosure url="/sites/default/files/sites/alpinestyle.ca/files/ogre.jpg" length="48167" type="image/jpeg" />
  <pubDate>Wed, 31 Oct 2007 10:58:08 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">62 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Zig Zag - Multi Pitch Sport-Climbing+ on Yamnuska</title>
- <link>http://jon.dev10.webenabled.net/2007/10/30/zig_zag_multi_pitch_sport_climbing_on_yamnuska</link>
+ <link>/2007/10/30/zig_zag_multi_pitch_sport_climbing_on_yamnuska</link>
  <description>&lt;p&gt;
 Zig Zag: 5.12-, 250m  
 &lt;/p&gt;
@@ -1670,18 +1670,18 @@ First ascent: Sean Isaac and Jon Walsh 2006
 &lt;/p&gt;
 &lt;p&gt;
 -The start is just left of red shirt and cross it halfway up the first pitch.  From here, you can more or less follow the bolts and natural features without getting lost.  The climb is mostly bolted but there are about 10 - 12 gear placements in total.  More beta and photos to come soon... 
-&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/10/30/zig_zag_multi_pitch_sport_climbing_on_yamnuska&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/locations/yamnuska">Yamnuska</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;/2007/10/30/zig_zag_multi_pitch_sport_climbing_on_yamnuska&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/rock_climbing">Rock climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/locations/yamnuska">Yamnuska</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Wed, 31 Oct 2007 01:21:19 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">60 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Rivers of Babylon - A new Route on Mt Wilson</title>
- <link>http://jon.dev10.webenabled.net/2007/10/30/rivers_of_babylon_a_new_route_on_mt_wilson</link>
+ <link>/2007/10/30/rivers_of_babylon_a_new_route_on_mt_wilson</link>
  <description>&lt;img src=&quot;/files/Rivers%20of%20Babylon.jpg&quot; align=&quot;left&quot; /&gt;
 &lt;p&gt;
 &lt;i&gt;
@@ -1690,18 +1690,18 @@ Rivers of Babylon  VI  M6+  WI5+R  500 m&lt;/i&gt;
 &lt;p&gt;
 On Nov. 26 and 27, Paul McSorley and I climbed a new 9 pitch route on Mt. Wilson in the bowl between Mixed Monster and Ice Nine.  &amp;quot;Rivers of Babylon&amp;quot; is the central line of three ice flows.  The climbing is sustained, technical and fun the entire way.  It was also quite delicate and often run-out.  We climbed mostly rock that traversed left and right on natural weaknesses through the overhanging buttress, for four pitches to gain the thin flow, which provided excellent thin ice and mixed climbing for another five pitches.  Good screws were rare to non existent, however tool placements came easily.  No bolts were placed and the rock is generally excellent by rockies standards.  We fixed three ropes on the first four pitches on day one, descended to Rampart Creek hostel for the night, and the next day ascended our ropes and climbed the rest of the route.  A one day ascent would be impressive, but doable by a very strong party.   This route is probably best earlier in the season and will be extremely dangerous when the avalanche hazard increases.&lt;br /&gt;
 &lt;br /&gt;
-&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/10/30/rivers_of_babylon_a_new_route_on_mt_wilson&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/locations/icefields_parkway">Icefields Parkway</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+&lt;p&gt;&lt;a href=&quot;/2007/10/30/rivers_of_babylon_a_new_route_on_mt_wilson&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/locations/icefields_parkway">Icefields Parkway</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Wed, 31 Oct 2007 01:11:03 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">59 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Drama Queen</title>
- <link>http://jon.dev10.webenabled.net/2007/10/30/drama_queen</link>
+ <link>/2007/10/30/drama_queen</link>
  <description>&lt;p&gt;
 Drama Queen 170m M7 WI6&lt;br /&gt;
 FA: Chris Brazeau, Jon Simms, Jon Walsh Jan 5, 2006&lt;br /&gt;
@@ -1712,11 +1712,11 @@ Drama Queen is located on the Stanley Headwall about halfway between French Toas
 &lt;/p&gt;
 &lt;p&gt;
 &lt;img src=&quot;/files/drama%20queen.jpg&quot; /&gt;
-&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/10/30/drama_queen&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/locations/stanley_headwall">Stanley Headwall</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+&lt;p&gt;&lt;a href=&quot;/2007/10/30/drama_queen&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/locations/stanley_headwall">Stanley Headwall</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Tue, 30 Oct 2007 19:27:22 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">58 at http://jon.dev10.webenabled.net</guid>

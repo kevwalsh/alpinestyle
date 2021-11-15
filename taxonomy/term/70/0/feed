@@ -2,12 +2,12 @@
 <rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>Alpine Style - Baffin</title>
- <link>http://jon.dev10.webenabled.net/taxonomy/term/70/0</link>
+ <link>/taxonomy/term/70/0</link>
  <description></description>
  <language>en</language>
 <item>
  <title>Spirits of Asgard</title>
- <link>http://jon.dev10.webenabled.net/2013/08/12/spirits_of_asgard</link>
+ <link>/2013/08/12/spirits_of_asgard</link>
  <description>&lt;p&gt;
 It&#039;s been a busy summer as always and I&#039;m getting behind on updating this blog.  About six weeks ago, the video &lt;a href=&quot;http://vimeo.com/70149174&quot;&gt;Spirits of Asgard&lt;/a&gt; was released, and has been very well received.  It&#039;s been posted to Outside Television, as well as received a Vimeo Staff pick, so it&#039;s recieved a lot of views, which is pretty cool!  A huge congratulations to &lt;a href=&quot;http://joshualavigne.com/&quot;&gt;Joshua Lavigne&lt;/a&gt; for producing it.  Check his website for more photos of the trip as well as the July / August 2013 issue of Gripped which features some pics and a 2500 word story I wrote about it.  Josh&#039;s words and images are also shared in the 2013 Canadian Alpine Journal.  Although the video covers the &amp;quot;darker&amp;quot; aspects of our trip, such as a couple of close calls we had, it was very a fun and successful trip.  Some photos and stories have been shared here on a blog post from last August, but I thought I&#039;d take a few a minutes to share a few more images as I link the the video here, as an attempt to share a greater visual tour of the amazing landscape Baffin has to offer.  
 &lt;/p&gt;
@@ -115,16 +115,16 @@ Josh getting western, a couple ofpitches below the summit
 Ines at base camp below Asgard. 
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/baffin">Baffin</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/alpine_climbing">Alpine climbing</category>
+ <category domain="/locations/baffin">Baffin</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Mon, 12 Aug 2013 23:10:00 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">107 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>New Routing on Mt. Asgard</title>
- <link>http://jon.dev10.webenabled.net/2012/08/22/new_routing_on_mt_asgard</link>
+ <link>/2012/08/22/new_routing_on_mt_asgard</link>
  <description>&lt;style&gt;
 &lt;!--
 /* Font Definitions */
@@ -660,15 +660,15 @@ Josh hiking in damp and misty conditions on the trail out
 &amp;nbsp;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/locations/baffin">Baffin</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/locations/baffin">Baffin</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Wed, 22 Aug 2012 01:30:16 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">94 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Baffin ski trip and post winter ramblings</title>
- <link>http://jon.dev10.webenabled.net/2012/04/07/baffin_ski_trip_and_post_winter_ramblings</link>
+ <link>/2012/04/07/baffin_ski_trip_and_post_winter_ramblings</link>
  <description>&lt;p&gt;
 It&#039;s been a while since I&#039;ve posted here mainly because life has been crazy busy, with work, family, skiing and climbing, a slideshow for the Calgary Mountain Club, writing an article for Gripped Magazine which just came out, training hard, and organizing an expedition to Baffin Island.  Currently, I&#039;m actually bivouacking in the Ottawa airport, halfway through four flights to Baffin, where a little ski adventure will start in about 24 hours from now(more about that shortly).   So, I thought I&#039;d take a few minutes to quickly recap the last three months.  Living in Calgary this winter has been a little different than what I&#039;m used to after 20 years based in B.C. ski towns.  There&#039;s a lot of traffic, concrete, wealth and opulence, and no real mountains anywhere within about 100 kms.  Although I feel distant  from my tribe of mountain freaks, and somewhat ski deprived (I can&#039;t blow mornings off work anymore to shred the fresh powder), there still have been lots of quality outings, and many miles on the highway getting to and from the mountains.  I have to admit I&#039;ve felt a little bit caged to say the least, but this trip should help sooth the soul, as getting back to nature typically does.  That said, the city isn&#039;t all that bad and I&#039;m taking advantage of new opportunities to train, heal old injuries, and experience some new opportunities.  It&#039;s been a good place to organize a big trip from too...&lt;br /&gt;
 &lt;br /&gt;
@@ -749,9 +749,9 @@ A huge thank you to all of the trips sponsors who have helped make this all poss
 &lt;br /&gt;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/locations/baffin">Baffin</category>
- <category domain="http://jon.dev10.webenabled.net/locations/candadian_rockies">Candadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/locations/rogers_pass">rogers pass</category>
+ <category domain="/locations/baffin">Baffin</category>
+ <category domain="/locations/candadian_rockies">Candadian Rockies</category>
+ <category domain="/locations/rogers_pass">rogers pass</category>
  <pubDate>Sat, 07 Apr 2012 09:33:57 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">92 at http://jon.dev10.webenabled.net</guid>

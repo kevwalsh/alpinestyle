@@ -2,12 +2,12 @@
 <rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>Alpine Style - Popes Peak</title>
- <link>http://jon.dev10.webenabled.net/taxonomy/term/40/0</link>
+ <link>/taxonomy/term/40/0</link>
  <description></description>
  <language>en</language>
 <item>
  <title>Popes Peak - first complete ski descent</title>
- <link>http://jon.dev10.webenabled.net/2007/10/25/popes_peak_first_complete_ski_descent</link>
+ <link>/2007/10/25/popes_peak_first_complete_ski_descent</link>
  <description>&lt;p&gt;
 Climbing and skiing, together at last.  The first complete descent of the north face of Popes Peak
 &lt;/p&gt;
@@ -18,11 +18,11 @@ On the way down, we rappeled both climbing pitches off a v-thread and a massive 
 &lt;/p&gt;
 &lt;p&gt;
 &lt;img src=&quot;/files/Popes-approach%20low%20res.jpg&quot; /&gt;
-&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/10/25/popes_peak_first_complete_ski_descent&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/taxonomy/term/4">Skiing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/locations/popes_peak">Popes Peak</category>
- <category domain="http://jon.dev10.webenabled.net/first_ski_descents">First Ski Descent</category>
+&lt;p&gt;&lt;a href=&quot;/2007/10/25/popes_peak_first_complete_ski_descent&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/taxonomy/term/4">Skiing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/locations/popes_peak">Popes Peak</category>
+ <category domain="/first_ski_descents">First Ski Descent</category>
  <pubDate>Thu, 25 Oct 2007 13:54:18 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">53 at http://jon.dev10.webenabled.net</guid>

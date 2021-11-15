@@ -2,19 +2,19 @@
 <rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>Alpine Style - Rockies</title>
- <link>http://jon.dev10.webenabled.net/taxonomy/term/65/0</link>
+ <link>/taxonomy/term/65/0</link>
  <description></description>
  <language>en</language>
 <item>
  <title>The first descent of Mt. Forbes</title>
- <link>http://jon.dev10.webenabled.net/2007/11/06/the_first_descent_of_mt_forbes</link>
+ <link>/2007/11/06/the_first_descent_of_mt_forbes</link>
  <description>&lt;p&gt;
 &lt;img src=&quot;/files/Mt.Forbes.jpg&quot; align=&quot;left&quot; /&gt;&lt;i&gt;At left: Mt. Forbes as seen from the Columbia Icefields.&lt;/i&gt;
-&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/11/06/the_first_descent_of_mt_forbes&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/taxonomy/term/4">Skiing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/mt_forbes_0">Mt Forbes</category>
- <category domain="http://jon.dev10.webenabled.net/locations/rockies">Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/first_ski_descents">First Ski Descent</category>
+&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;/2007/11/06/the_first_descent_of_mt_forbes&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/taxonomy/term/4">Skiing</category>
+ <category domain="/locations/mt_forbes_0">Mt Forbes</category>
+ <category domain="/locations/rockies">Rockies</category>
+ <category domain="/first_ski_descents">First Ski Descent</category>
  <pubDate>Tue, 06 Nov 2007 19:12:46 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">71 at http://jon.dev10.webenabled.net</guid>

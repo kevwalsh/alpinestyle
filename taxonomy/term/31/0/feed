@@ -2,23 +2,23 @@
 <rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>Alpine Style - Blaebarry Express</title>
- <link>http://jon.dev10.webenabled.net/taxonomy/term/31/0</link>
+ <link>/taxonomy/term/31/0</link>
  <description></description>
  <language>en</language>
 <item>
  <title>Blaeberry Express</title>
- <link>http://jon.dev10.webenabled.net/2007/09/22/blaeberry_express</link>
+ <link>/2007/09/22/blaeberry_express</link>
  <description>&lt;p&gt;
 Blaeberry Express  -  Hepberg Creek, Blaeberry Valley B.C.   GR975035
 220 m M6 WI 6  -  F.A. Rich Marshall, Jon Walsh  -  Dec 1, 2005
 &lt;/p&gt;
 &lt;p&gt;
 &lt;img src=&quot;/files/BlaeberryExpress.jpg&quot; /&gt; 
-&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/09/22/blaeberry_express&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/blaebarry_express">Blaebarry Express</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;/2007/09/22/blaeberry_express&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/blaebarry_express">Blaebarry Express</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Sat, 22 Sep 2007 15:50:01 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">46 at http://jon.dev10.webenabled.net</guid>

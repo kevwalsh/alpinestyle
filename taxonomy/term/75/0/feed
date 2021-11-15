@@ -2,12 +2,12 @@
 <rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>Alpine Style - Scotland</title>
- <link>http://jon.dev10.webenabled.net/taxonomy/term/75/0</link>
+ <link>/taxonomy/term/75/0</link>
  <description></description>
  <language>en</language>
 <item>
  <title>Scotland Trip Report 2016</title>
- <link>http://jon.dev10.webenabled.net/2016/02/08/scotland_trip_report_2016</link>
+ <link>/2016/02/08/scotland_trip_report_2016</link>
  <description>&lt;p&gt;
 Since participating in the BMC winter meet two years ago, I’ve been dreaming of returning to the Scotland.  Although it has some of the most persistently appalling weather imaginable, it’s stunningly beautiful, and is home to one of the most interesting styles of winter climbing I know of.  A strict code of ethics prevents any bolting in the mountains.  The rock is typically granitic and well featured, and the wild north atlantic weather plasters the cliffs in ice, rime, snow and verglas, thus creating conditions where you’ll often be dealing with 4 or 5 different mediums at time.  Mix that with some frozen turf and neve, it’s about as mixed as it gets.   Although all the climbing I did seemed quite sustained and technically in the M6 to M8 range, placing the protection was often the crux as most of it needed to be pounded in.  Camming devices were almost completely useless!  &lt;br /&gt;
 &lt;br /&gt;
@@ -133,8 +133,8 @@ Scotland is famous for its pubs and this was our local watering hole.  From L t
 &lt;br /&gt;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/scotland">Scotland</category>
+ <category domain="/alpine_climbing">Alpine climbing</category>
+ <category domain="/locations/scotland">Scotland</category>
  <pubDate>Mon, 08 Feb 2016 14:28:28 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">117 at http://jon.dev10.webenabled.net</guid>

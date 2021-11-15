@@ -2,12 +2,12 @@
 <rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>Alpine Style - Kootenay National Park B.C.</title>
- <link>http://jon.dev10.webenabled.net/taxonomy/term/73/0</link>
+ <link>/taxonomy/term/73/0</link>
  <description></description>
  <language>en</language>
 <item>
  <title>The Plum</title>
- <link>http://jon.dev10.webenabled.net/2014/11/10/the_plum</link>
+ <link>/2014/11/10/the_plum</link>
  <description>&lt;p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -88,9 +88,9 @@ Pitch 3.  20m WI4.  Vertical for a bit, then easier.  This pitch could vary i
 Rack beta:  We had a double set of cams from tips to #2 camelot, one #3, and one #4 camelot.  Doubles from tips to .75 camelot was nice, but singles from #1 to #4 would suffice.  A few pitons, nuts, and a half-dozen screws in the 10-13 cm range would be enough in the same conditions.  14 quick draws wasn’t quite enough for the long second pitch and I was wishing I had a couple more… 
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/kootenay_national_park_bc">Kootenay National Park B.C.</category>
- <category domain="http://jon.dev10.webenabled.net/locations/storm_creek_headwall">Storm Creek Headwall</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/kootenay_national_park_bc">Kootenay National Park B.C.</category>
+ <category domain="/locations/storm_creek_headwall">Storm Creek Headwall</category>
  <pubDate>Mon, 10 Nov 2014 00:57:03 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">114 at http://jon.dev10.webenabled.net</guid>

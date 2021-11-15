@@ -2,12 +2,12 @@
 <rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>Alpine Style - Stanley Headwall</title>
- <link>http://jon.dev10.webenabled.net/taxonomy/term/35/0</link>
+ <link>/taxonomy/term/35/0</link>
  <description></description>
  <language>en</language>
 <item>
  <title>Drama Queen</title>
- <link>http://jon.dev10.webenabled.net/2007/10/30/drama_queen</link>
+ <link>/2007/10/30/drama_queen</link>
  <description>&lt;p&gt;
 Drama Queen 170m M7 WI6&lt;br /&gt;
 FA: Chris Brazeau, Jon Simms, Jon Walsh Jan 5, 2006&lt;br /&gt;
@@ -18,23 +18,23 @@ Drama Queen is located on the Stanley Headwall about halfway between French Toas
 &lt;/p&gt;
 &lt;p&gt;
 &lt;img src=&quot;/files/drama%20queen.jpg&quot; /&gt;
-&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/10/30/drama_queen&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/locations/stanley_headwall">Stanley Headwall</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+&lt;p&gt;&lt;a href=&quot;/2007/10/30/drama_queen&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/locations/stanley_headwall">Stanley Headwall</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Tue, 30 Oct 2007 19:27:22 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">58 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Dawn of the Dead</title>
- <link>http://jon.dev10.webenabled.net/photos/dawn_of_the_dead</link>
+ <link>/photos/dawn_of_the_dead</link>
  <description>Chris Brazeau is climbing Dawn of the Dead at the Stanley Headwall.  The Headwall is one of the premier attractions to mixed climbers world wide.
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/locations/stanley_headwall">Stanley Headwall</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/locations/stanley_headwall">Stanley Headwall</category>
  <pubDate>Sat, 06 Jan 2007 17:09:39 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">19 at http://jon.dev10.webenabled.net</guid>

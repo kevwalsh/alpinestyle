@@ -2,12 +2,12 @@
 <rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>Alpine Style - Rock climbing</title>
- <link>http://jon.dev10.webenabled.net/taxonomy/term/1/0</link>
+ <link>/taxonomy/term/1/0</link>
  <description></description>
  <language>en</language>
 <item>
  <title>The Cupcake Conspiracy</title>
- <link>http://jon.dev10.webenabled.net/2016/06/21/the_cupcake_conspiracy</link>
+ <link>/2016/06/21/the_cupcake_conspiracy</link>
  <description>&lt;img src=&quot;/sites/default/files/Cupcake.jpg&quot; /&gt;
 &lt;p&gt;
 The Cupcake Conspiracy
@@ -38,16 +38,16 @@ Pitch 4, 5.10b 10 bolts, 35-meters.  Prickly featured holds lead up perfect gre
 Pitch 5, 5.10d 11 bolts, 35-meters.  Straightforward face climbing to the rim.    
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/the_ghost_river">The Ghost River</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/rock_climbing">Rock climbing</category>
+ <category domain="/locations/the_ghost_river">The Ghost River</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Tue, 21 Jun 2016 03:23:12 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">118 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Blue Jeans</title>
- <link>http://jon.dev10.webenabled.net/2014/09/15/blue_jeans</link>
+ <link>/2014/09/15/blue_jeans</link>
  <description>&lt;p&gt;
 Josh Wharton and I must&#039;ve used up our luck and good weather on his last two highly productive visits, because we just got pretty much shut down on all things alpine we were interested in.  During the exact same dates as a year ago, we enjoyed a successful and rare repeat of the North Twin&#039;s Tower, while freezing levels remanied close to 4000m, and valley temps crested the 30 degree mark.  This year, four out of the 7.5 days we just spent together were full winter days with relatively large amounts of snowfall, all the way to the valley, that firmly slammed the door on everything we hoped to do.  We still drove many hundreds of kilometers trying to stay optimistic and psyched, but in the end, we had to settle for a warm-up day at Acephale (our favorite Bow Valley crag) before the apocolyptic weather began, and two days on Yamnuska working a 5.13 multi-pitch sport climb called Blue Jeans.  It&#039;s not that there wasn&#039;t alpine objectives that would&#039;ve been doable and perhaps enjoyable, we&#039;re just picky and like to stay focused on harder technical routes whenever possible. 
 &lt;/p&gt;
@@ -97,15 +97,15 @@ Josh on the fourth pitch
 &amp;nbsp;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/yamnuska">Yamnuska</category>
+ <category domain="/rock_climbing">Rock climbing</category>
+ <category domain="/locations/yamnuska">Yamnuska</category>
  <pubDate>Mon, 15 Sep 2014 00:09:06 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">113 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Bow Valley Rock</title>
- <link>http://jon.dev10.webenabled.net/2013/07/20/bow_valley_rock</link>
+ <link>/2013/07/20/bow_valley_rock</link>
  <description>&lt;p&gt;
 Rock climbing in the Bow Valley has been so much fun lately, and although I&#039;ve been mostly seasoning single pitch sport climbs at Bataan and Lake Louise, I&#039;ve been really stoked on a couple of multi-pitch lines I&#039;ve recently done.&lt;br /&gt;
 &lt;br /&gt;
@@ -184,14 +184,14 @@ As I write this, I&#039;m only a few hours away from my second trip into the Bug
 &lt;br /&gt;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
+ <category domain="/rock_climbing">Rock climbing</category>
  <pubDate>Sat, 20 Jul 2013 13:37:37 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">106 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Bugaboos 2011 - fisrt ascents, first free ascents, obscure repeats, good times... </title>
- <link>http://jon.dev10.webenabled.net/2011/09/05/bugaboos_2011_fisrt_ascents_first_free_ascents_obscure_repeats_good_times</link>
+ <link>/2011/09/05/bugaboos_2011_fisrt_ascents_first_free_ascents_obscure_repeats_good_times</link>
  <description>&lt;p&gt;
 As usual, the Bugaboos feed my stoke.  I&#039;ve been in there four times this year, and so far there have been four highlights.  All have been ascents of rarely climbed, somewhat obscure routes, and all have been shared with a different, extremely talented partners whom I feel  fortunate to be friends with.  And of course it&#039;s always good to see all the usual suspects that make annual pilgrimages to Applebee Camp, and share some fine single malts and stories of their adventures too.  It&#039;s part of what I look forward to when I go to the Bugs.  It&#039;s funny how some folk you don&#039;t see for a year but then see on a regular basis between climibng sessions.  Both the comraderie and epic adventures are the key ingredients that make the Bugs my favorite venue.  Anyways...  THe highlights:
 &lt;/p&gt;
@@ -251,17 +251,17 @@ Colin Moorhead was back in hood after an absence of several years, and we were s
 &lt;img src=&quot;/sites/default/files/Bugs-Snowpatch%20e%20face%20low%20res%20copy.jpg&quot; /&gt;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/bugaboos">Bugaboos</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
- <enclosure url="http://jon.dev10.webenabled.net/sites/default/files/North Howser overview2 copy.jpg" length="303042" type="image/jpeg" />
+ <category domain="/rock_climbing">Rock climbing</category>
+ <category domain="/locations/bugaboos">Bugaboos</category>
+ <category domain="/first_ascents">First Ascent</category>
+ <enclosure url="/sites/default/files/North Howser overview2 copy.jpg" length="303042" type="image/jpeg" />
  <pubDate>Mon, 05 Sep 2011 03:43:03 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">87 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Bugaboos - Sendero Norte and Labyrinth</title>
- <link>http://jon.dev10.webenabled.net/2011/08/20/bugaboos_sendero_norte_and_labyrinth</link>
+ <link>/2011/08/20/bugaboos_sendero_norte_and_labyrinth</link>
  <description>&lt;p&gt;
 Ahh the Bugaboos.  My all time favorite place to crank!!  It&#039;s been yet another fine summer cranking in there and I&#039;ll share some photos and stories soon of a few big wall free climbing highlights.  But first of all, a lot of people have been asking for information on &lt;b&gt;Sendero Norte&lt;/b&gt;, a route that Chris Brazeau and I put up a few years ago.  So here it is, along with &lt;b&gt;Labyrinth&lt;/b&gt;, another route I authored with Jon Simms and also a superb climb up fourteen pitches of splitter granite.    
 &lt;/p&gt;
@@ -284,28 +284,28 @@ Some photos of Sendero exist under an old post called Bugaboos project or in an 
 &amp;nbsp;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/bugaboos">Bugaboos</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/rock_climbing">Rock climbing</category>
+ <category domain="/locations/bugaboos">Bugaboos</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Sat, 20 Aug 2011 04:47:38 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">86 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Bugaboo project...</title>
- <link>http://jon.dev10.webenabled.net/2007/11/02/bugaboo_project</link>
+ <link>/2007/11/02/bugaboo_project</link>
  <description>&lt;p&gt;
-&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/11/02/bugaboo_project&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/bugaboos">Bugaboos</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+&lt;p&gt;&lt;a href=&quot;/2007/11/02/bugaboo_project&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/rock_climbing">Rock climbing</category>
+ <category domain="/locations/bugaboos">Bugaboos</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Fri, 02 Nov 2007 10:00:42 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">68 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Zig Zag - Multi Pitch Sport-Climbing+ on Yamnuska</title>
- <link>http://jon.dev10.webenabled.net/2007/10/30/zig_zag_multi_pitch_sport_climbing_on_yamnuska</link>
+ <link>/2007/10/30/zig_zag_multi_pitch_sport_climbing_on_yamnuska</link>
  <description>&lt;p&gt;
 Zig Zag: 5.12-, 250m  
 &lt;/p&gt;
@@ -320,18 +320,18 @@ First ascent: Sean Isaac and Jon Walsh 2006
 &lt;/p&gt;
 &lt;p&gt;
 -The start is just left of red shirt and cross it halfway up the first pitch.  From here, you can more or less follow the bolts and natural features without getting lost.  The climb is mostly bolted but there are about 10 - 12 gear placements in total.  More beta and photos to come soon... 
-&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/10/30/zig_zag_multi_pitch_sport_climbing_on_yamnuska&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/locations/yamnuska">Yamnuska</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;/2007/10/30/zig_zag_multi_pitch_sport_climbing_on_yamnuska&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/rock_climbing">Rock climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/locations/yamnuska">Yamnuska</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Wed, 31 Oct 2007 01:21:19 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">60 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Mt MacDonald - North Pillar</title>
- <link>http://jon.dev10.webenabled.net/2007/09/22/mt_macdonald_north_pillar</link>
+ <link>/2007/09/22/mt_macdonald_north_pillar</link>
  <description>&lt;p&gt;
 &lt;img src=&quot;/files/MtMcdonaldroutelines.jpg&quot; /&gt; 
 &lt;/p&gt;
@@ -339,69 +339,69 @@ First ascent: Sean Isaac and Jon Walsh 2006
 At 7 a.m. on the 19th of August 2005, Bruce Kay (Squamish B.C) and I were racking up at the toe of the steep pillar on the right side of Mt. MacDonald&#039;s 1000 meter high North Face, for our first adventure together.  We were surprised to see a bolt at the first belay, although we knew the pillar had been attempted a couple of times before.  On the second pitch (5.7), two unnecessary and appalling  protection bolts appeared, both within a couple of feet of bomber green camelot placements.  Unfortunately, the nut on the first one was tight, but Bruce managed to get the second one loose, remove the hanger, and unleash the fury of his hammer on the protruding stud.  It was the first time he had chopped a bolt in 30(?) years of climbing.    The pillar steepened and Bruce led a nice pitch of 5.10-.  One final bolt appeared at the belay above the third pitch which we left in place.  The fourth pitch and the technical crux of the route moved right on to the arete.  I managed to weld two knifeblades for protection from crimps before pumping out and having to hang.  Tighter shoes would have been helpful for this short section of 5.11 face climbing.  At the top of the sixth pitch, we passed the last signs of other attempts.  Pitch after pitch of sustained 5.10 climbing followed with one more section of 5.11 on the eighth pitch.  Finally, after eleven pitches, eight of which were sustained 5.10 and 5.11, we topped out on the pillar.  Ahead, the angle eased a little as the wall split into a series of gullies and buttresses. 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/09/22/mt_macdonald_north_pillar&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/mt_macdonald">Mt MacDonald</category>
- <category domain="http://jon.dev10.webenabled.net/locations/selkirks">Selkirks</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+&lt;p&gt;&lt;a href=&quot;/2007/09/22/mt_macdonald_north_pillar&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/rock_climbing">Rock climbing</category>
+ <category domain="/locations/mt_macdonald">Mt MacDonald</category>
+ <category domain="/locations/selkirks">Selkirks</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Sat, 22 Sep 2007 19:23:20 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">51 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Medusa</title>
- <link>http://jon.dev10.webenabled.net/photos/rock_climbing/medusa_0</link>
+ <link>/photos/rock_climbing/medusa_0</link>
  <description>Jon Simms on the first ascent of &quot;Medusa&quot;, 5.12+ Spilllimacheen B.C.</description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
+ <category domain="/rock_climbing">Rock climbing</category>
  <pubDate>Sat, 06 Jan 2007 23:01:35 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">39 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Medusa</title>
- <link>http://jon.dev10.webenabled.net/photos/rock_climbing/medusa</link>
+ <link>/photos/rock_climbing/medusa</link>
  <description>Jon Simms sending the first ascent of &quot;Medusa&quot;.  The climb is 40 meters long, is mostly gear protected, and has five 5.12 cruxes.  He logged hundreds of meters in air time over many attempts at the redpoint.  It&#039;s located on the beautiful quartzite / sandstone walls of Sunnyvale crag, Spillimacheen B.C.</description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
+ <category domain="/rock_climbing">Rock climbing</category>
  <pubDate>Sat, 06 Jan 2007 19:52:13 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">36 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Split Beaver</title>
- <link>http://jon.dev10.webenabled.net/photos/rock_climbing/split_beaver</link>
+ <link>/photos/rock_climbing/split_beaver</link>
  <description>Dave Gauley is hand-stacking his up the Split Beaver.  Little Smoke Bluffs, Squamish B.C.</description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/squamish">Squamish</category>
+ <category domain="/rock_climbing">Rock climbing</category>
+ <category domain="/locations/squamish">Squamish</category>
  <pubDate>Sat, 06 Jan 2007 17:56:01 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">27 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>The Power of Lard</title>
- <link>http://jon.dev10.webenabled.net/photos/rock_climbing/the_power_of_lard</link>
+ <link>/photos/rock_climbing/the_power_of_lard</link>
  <description>Colin Moorhead (leading) and Tom Gruber attempting &quot;The Power of Lard&quot;, a 7 pitch 5.12 route on the east face of Snowpatch Spire, in the Bugaboos.</description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/bugaboos">Bugaboos</category>
+ <category domain="/rock_climbing">Rock climbing</category>
+ <category domain="/locations/bugaboos">Bugaboos</category>
  <pubDate>Sat, 06 Jan 2007 16:46:10 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">14 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Ceuse, France</title>
- <link>http://jon.dev10.webenabled.net/photos/rock_climbing/ceuse_france</link>
+ <link>/photos/rock_climbing/ceuse_france</link>
  <description>An unknown climber sticks a dyno on a 5.13 at Ceuse, France.  </description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/ceuse">Ceuse</category>
- <category domain="http://jon.dev10.webenabled.net/locations/france">France</category>
+ <category domain="/rock_climbing">Rock climbing</category>
+ <category domain="/locations/ceuse">Ceuse</category>
+ <category domain="/locations/france">France</category>
  <pubDate>Sat, 06 Jan 2007 16:39:32 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">13 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Paddleflake prow</title>
- <link>http://jon.dev10.webenabled.net/photos/rock_climbing/paddleflake_prow</link>
+ <link>/photos/rock_climbing/paddleflake_prow</link>
  <description></description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
+ <category domain="/rock_climbing">Rock climbing</category>
  <pubDate>Thu, 04 Jan 2007 07:52:54 +0000</pubDate>
  <dc:creator>admin</dc:creator>
  <guid isPermaLink="false">9 at http://jon.dev10.webenabled.net</guid>

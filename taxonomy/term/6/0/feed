@@ -2,12 +2,12 @@
 <rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>Alpine Style - Patagonia</title>
- <link>http://jon.dev10.webenabled.net/taxonomy/term/6/0</link>
+ <link>/taxonomy/term/6/0</link>
  <description></description>
  <language>en</language>
 <item>
  <title>Patagonia</title>
- <link>http://jon.dev10.webenabled.net/2013/01/08/patagonia</link>
+ <link>/2013/01/08/patagonia</link>
  <description>&lt;p&gt;
 Patagonia &lt;br /&gt;
 &lt;img src=&quot;/sites/default/files/Festerville%20700.jpg&quot; /&gt;
@@ -284,15 +284,15 @@ A summit fist pump!
 &amp;nbsp;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/patagonia">Patagonia</category>
+ <category domain="/alpine_climbing">Alpine climbing</category>
+ <category domain="/locations/patagonia">Patagonia</category>
  <pubDate>Tue, 08 Jan 2013 16:38:11 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">98 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Patagonia 2005: New routes on Fitz Roy, Descmochada, and Rafael</title>
- <link>http://jon.dev10.webenabled.net/2007/10/25/patagonia_2005_new_routes_on_fitz_roy_descmochada_and_rafael</link>
+ <link>/2007/10/25/patagonia_2005_new_routes_on_fitz_roy_descmochada_and_rafael</link>
  <description>&lt;p&gt;
 Argentine Patagonia summary from January and February 2005 Fitz Roy and
 Aguja Rafael, New Routes. Paul McSorley and I rolled in to Patagonia at
@@ -302,56 +302,56 @@ the intentions of finding an unclimbed line on the south or east face
 of Fitz Roy. After seven sweet early-morning pitches up La Brecha, we
 saw an obvious line of beautiful clean corners splitting the south
 face, just left of the Boris Simoncic Route (ED-: 5.9 A2 55°, 650m,
-&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/10/25/patagonia_2005_new_routes_on_fitz_roy_descmochada_and_rafael&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/desmochada">Desmochada</category>
- <category domain="http://jon.dev10.webenabled.net/locations/fitz_roy">Fitz Roy</category>
- <category domain="http://jon.dev10.webenabled.net/locations/patagonia">Patagonia</category>
- <category domain="http://jon.dev10.webenabled.net/locations/rafael">Rafael</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+&lt;p&gt;&lt;a href=&quot;/2007/10/25/patagonia_2005_new_routes_on_fitz_roy_descmochada_and_rafael&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/alpine_climbing">Alpine climbing</category>
+ <category domain="/locations/desmochada">Desmochada</category>
+ <category domain="/locations/fitz_roy">Fitz Roy</category>
+ <category domain="/locations/patagonia">Patagonia</category>
+ <category domain="/locations/rafael">Rafael</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Thu, 25 Oct 2007 16:21:30 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">55 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Cuatro Dedos and Domo Blanco, Torre Glacier, Patagonia</title>
- <link>http://jon.dev10.webenabled.net/2007/09/22/cuatro_dedos_and_domo_blanco_torre_glacier_patagonia</link>
+ <link>/2007/09/22/cuatro_dedos_and_domo_blanco_torre_glacier_patagonia</link>
  <description>&lt;p&gt;
-&lt;img src=&quot;/files/Patcopy74cuatrosdedosdomoblancowithlines.jpg&quot; width=&quot;600&quot; /&gt;&lt;b&gt;Jan 13th - Cuatro Dedos(Four Fingers):&lt;/b&gt;  The window was only supposed to be a small one so we set our goal on a smaller tower by Torre Glacier standards, called Cuatro Dedos.  To get there required walking past about ten or more other beautiful towers, which was probably one of the main reasons why it had only ever seen one or two ascents.  A prominent northeasterly buttress that led directly to its summit had been on my list of things to do for a couple years, and it was finally time to attempt it.&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/09/22/cuatro_dedos_and_domo_blanco_torre_glacier_patagonia&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/patagonia">Patagonia</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+&lt;img src=&quot;/files/Patcopy74cuatrosdedosdomoblancowithlines.jpg&quot; width=&quot;600&quot; /&gt;&lt;b&gt;Jan 13th - Cuatro Dedos(Four Fingers):&lt;/b&gt;  The window was only supposed to be a small one so we set our goal on a smaller tower by Torre Glacier standards, called Cuatro Dedos.  To get there required walking past about ten or more other beautiful towers, which was probably one of the main reasons why it had only ever seen one or two ascents.  A prominent northeasterly buttress that led directly to its summit had been on my list of things to do for a couple years, and it was finally time to attempt it.&lt;p&gt;&lt;a href=&quot;/2007/09/22/cuatro_dedos_and_domo_blanco_torre_glacier_patagonia&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/alpine_climbing">Alpine climbing</category>
+ <category domain="/locations/patagonia">Patagonia</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Sat, 22 Sep 2007 19:43:36 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">52 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>The Casarotto Pillar, Cerro Fitz Roy</title>
- <link>http://jon.dev10.webenabled.net/photos/alpine_climbing/the_casarotto_pillar_cerro_fitz_roy</link>
+ <link>/photos/alpine_climbing/the_casarotto_pillar_cerro_fitz_roy</link>
  <description>Josh Wharton and his partner Bean Bowers (just barely visible) are making the first free ascent of the Casarotto Pillar, Cerro Fitz Roy, Patagonia.  Crystal Davis-Robbins and I also made a successful ascent of this sought after, but rarely completed Patagonian classic.  A better alpine rock route would be hard to imagine!  &lt;br /&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/patagonia">Patagonia</category>
+ <category domain="/alpine_climbing">Alpine climbing</category>
+ <category domain="/locations/patagonia">Patagonia</category>
  <pubDate>Sat, 06 Jan 2007 17:50:06 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">25 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Torre Glacier</title>
- <link>http://jon.dev10.webenabled.net/photos/patagonia/torre_glacier</link>
+ <link>/photos/patagonia/torre_glacier</link>
  <description>It&#039;s hard to beat a bluebird day in Patagonia.   The Torre Glacier and the Cerro Torre group from the summit of Aguja Rafael.</description>
- <category domain="http://jon.dev10.webenabled.net/landscape_photography">Landscape photography</category>
- <category domain="http://jon.dev10.webenabled.net/locations/patagonia">Patagonia</category>
+ <category domain="/landscape_photography">Landscape photography</category>
+ <category domain="/locations/patagonia">Patagonia</category>
  <pubDate>Sat, 06 Jan 2007 17:42:29 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">24 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Aguja Rafael</title>
- <link>http://jon.dev10.webenabled.net/photos/alpine_climbing/aguja_rafael</link>
+ <link>/photos/alpine_climbing/aguja_rafael</link>
  <description>Paul McSorley hand jams the traverse pitch on the first free and first integral ascent of the West Buttress on Aguja Rafael, El Chalten Massif, Patagonia.  The Cerro Torre group stands proudly in the background.</description>
- <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/patagonia">Patagonia</category>
+ <category domain="/alpine_climbing">Alpine climbing</category>
+ <category domain="/locations/patagonia">Patagonia</category>
  <pubDate>Thu, 04 Jan 2007 10:05:46 +0000</pubDate>
  <dc:creator>admin</dc:creator>
  <guid isPermaLink="false">10 at http://jon.dev10.webenabled.net</guid>

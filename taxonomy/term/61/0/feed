@@ -2,12 +2,12 @@
 <rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>Alpine Style - Mt MacDonald</title>
- <link>http://jon.dev10.webenabled.net/taxonomy/term/61/0</link>
+ <link>/taxonomy/term/61/0</link>
  <description></description>
  <language>en</language>
 <item>
  <title>Mt MacDonald - North Pillar</title>
- <link>http://jon.dev10.webenabled.net/2007/09/22/mt_macdonald_north_pillar</link>
+ <link>/2007/09/22/mt_macdonald_north_pillar</link>
  <description>&lt;p&gt;
 &lt;img src=&quot;/files/MtMcdonaldroutelines.jpg&quot; /&gt; 
 &lt;/p&gt;
@@ -15,11 +15,11 @@
 At 7 a.m. on the 19th of August 2005, Bruce Kay (Squamish B.C) and I were racking up at the toe of the steep pillar on the right side of Mt. MacDonald&#039;s 1000 meter high North Face, for our first adventure together.  We were surprised to see a bolt at the first belay, although we knew the pillar had been attempted a couple of times before.  On the second pitch (5.7), two unnecessary and appalling  protection bolts appeared, both within a couple of feet of bomber green camelot placements.  Unfortunately, the nut on the first one was tight, but Bruce managed to get the second one loose, remove the hanger, and unleash the fury of his hammer on the protruding stud.  It was the first time he had chopped a bolt in 30(?) years of climbing.    The pillar steepened and Bruce led a nice pitch of 5.10-.  One final bolt appeared at the belay above the third pitch which we left in place.  The fourth pitch and the technical crux of the route moved right on to the arete.  I managed to weld two knifeblades for protection from crimps before pumping out and having to hang.  Tighter shoes would have been helpful for this short section of 5.11 face climbing.  At the top of the sixth pitch, we passed the last signs of other attempts.  Pitch after pitch of sustained 5.10 climbing followed with one more section of 5.11 on the eighth pitch.  Finally, after eleven pitches, eight of which were sustained 5.10 and 5.11, we topped out on the pillar.  Ahead, the angle eased a little as the wall split into a series of gullies and buttresses. 
 &lt;/p&gt;
 &lt;p&gt;
-&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/09/22/mt_macdonald_north_pillar&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/rock_climbing">Rock climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/mt_macdonald">Mt MacDonald</category>
- <category domain="http://jon.dev10.webenabled.net/locations/selkirks">Selkirks</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+&lt;p&gt;&lt;a href=&quot;/2007/09/22/mt_macdonald_north_pillar&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/rock_climbing">Rock climbing</category>
+ <category domain="/locations/mt_macdonald">Mt MacDonald</category>
+ <category domain="/locations/selkirks">Selkirks</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Sat, 22 Sep 2007 19:23:20 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">51 at http://jon.dev10.webenabled.net</guid>

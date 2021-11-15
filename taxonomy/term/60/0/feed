@@ -2,12 +2,12 @@
 <rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>Alpine Style - Ice / mixed climbing</title>
- <link>http://jon.dev10.webenabled.net/taxonomy/term/60/0</link>
+ <link>/taxonomy/term/60/0</link>
  <description></description>
  <language>en</language>
 <item>
  <title>Kahveology</title>
- <link>http://jon.dev10.webenabled.net/2015/01/26/kahveology</link>
+ <link>/2015/01/26/kahveology</link>
  <description>&lt;p&gt;
 KAHVEOLOGY - (The science of coffee)&lt;br /&gt;
 160m, M8 WI5  First ascent by Jon Simms and Jon Walsh, Jan 23rd, 2015
@@ -112,18 +112,18 @@ Pitch 4:  25m WI4 - Straight forward ice climbing.  The bolted anchor is about
 &lt;br /&gt;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/locations/kootenay_national_park">Kootenay National Park</category>
- <category domain="http://jon.dev10.webenabled.net/locations/storm_creek_headwall">Storm Creek Headwall</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/locations/kootenay_national_park">Kootenay National Park</category>
+ <category domain="/locations/storm_creek_headwall">Storm Creek Headwall</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Mon, 26 Jan 2015 04:47:10 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">115 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>The Plum</title>
- <link>http://jon.dev10.webenabled.net/2014/11/10/the_plum</link>
+ <link>/2014/11/10/the_plum</link>
  <description>&lt;p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -204,16 +204,16 @@ Pitch 3.  20m WI4.  Vertical for a bit, then easier.  This pitch could vary i
 Rack beta:  We had a double set of cams from tips to #2 camelot, one #3, and one #4 camelot.  Doubles from tips to .75 camelot was nice, but singles from #1 to #4 would suffice.  A few pitons, nuts, and a half-dozen screws in the 10-13 cm range would be enough in the same conditions.  14 quick draws wasn’t quite enough for the long second pitch and I was wishing I had a couple more… 
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/kootenay_national_park_bc">Kootenay National Park B.C.</category>
- <category domain="http://jon.dev10.webenabled.net/locations/storm_creek_headwall">Storm Creek Headwall</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/kootenay_national_park_bc">Kootenay National Park B.C.</category>
+ <category domain="/locations/storm_creek_headwall">Storm Creek Headwall</category>
  <pubDate>Mon, 10 Nov 2014 00:57:03 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">114 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Gripped Cover</title>
- <link>http://jon.dev10.webenabled.net/2014/02/15/gripped_cover</link>
+ <link>/2014/02/15/gripped_cover</link>
  <description>&lt;p&gt;
 &lt;img src=&quot;/sites/default/files/Gripped16i1_tearsheets_OFC.jpg&quot; /&gt; 
 &lt;/p&gt;
@@ -224,15 +224,15 @@ This fine image taken by &lt;a href=&quot;http://paulbride.com/&quot;&gt;Paul Br
 &amp;nbsp;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
  <pubDate>Sat, 15 Feb 2014 21:45:00 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">110 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Rockies Ice</title>
- <link>http://jon.dev10.webenabled.net/2013/02/19/rockies_ice</link>
+ <link>/2013/02/19/rockies_ice</link>
  <description>&lt;p&gt;
 &lt;br /&gt;
 This post is going to be a quick and dirty.  No preaching, no spraying, no shameless advertising!   I&#039;ve been so busy with work, training, and life lately that blogging time has been sparse to say the least.  So until the next one, I&#039;m mainly just going to post a few pics of me for a change, thanks to Paul and Magda.  I don&#039;t usually post very many photos of myself but here&#039;s a few from some of the amazing Rockies classics I&#039;ve been on lately.  i wish I had some skiing photos from some of the neck deep days at the Rogers Pass I&#039;ve had, but it&#039;s too hard to stop and take them when you&#039;re having that much fun.  The ski posts will come soon as the days get longer and more interesting adventures begin to unfold.…  For now, here&#039;s some climbing b-roll, Canadian Rockies style... 
@@ -276,16 +276,16 @@ The first mixed pitch of Nightmare on Wolf Street with Magda Kosior on belay dut
 And here&#039;s a photo of where I&#039;m going in a week, for a week!  One of my favorite zones.  Hopefully conditions will be as good as the last two times.   
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <enclosure url="http://jon.dev10.webenabled.net/sites/default/files/cragging 55.jpg" length="346543" type="image/jpeg" />
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <enclosure url="/sites/default/files/cragging 55.jpg" length="346543" type="image/jpeg" />
  <pubDate>Tue, 19 Feb 2013 03:41:18 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">99 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Check Your Head</title>
- <link>http://jon.dev10.webenabled.net/2012/12/01/check_your_head</link>
+ <link>/2012/12/01/check_your_head</link>
  <description>&lt;p&gt;
 &lt;img src=&quot;/sites/default/files/GetInline.jpg&quot; /&gt; 
 &lt;/p&gt;
@@ -335,16 +335,16 @@ Two different angles of the climb, showing the belays and rappel stations
 &amp;nbsp;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Sat, 01 Dec 2012 14:52:12 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">96 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Uniform Queen</title>
- <link>http://jon.dev10.webenabled.net/2011/12/15/uniform_queen</link>
+ <link>/2011/12/15/uniform_queen</link>
  <description>&lt;p&gt;
 &lt;img src=&quot;/sites/default/files/Uniform-Queen-L.jpg&quot; /&gt; 
 &lt;/p&gt;
@@ -378,15 +378,15 @@ Halfway up the third pitch.
 &amp;nbsp;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
  <pubDate>Thu, 15 Dec 2011 04:19:41 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">91 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Man Yoga</title>
- <link>http://jon.dev10.webenabled.net/2011/11/16/man_yoga</link>
+ <link>/2011/11/16/man_yoga</link>
  <description>&lt;p&gt;
 Dec.5 Update: To see Joshua Lavigne&#039;s nicely shot and edited 10 minute Man Yoga video, click&lt;a href=&quot;http://vimeo.com/33005769&quot;&gt;&lt;b&gt;&lt;i&gt; here  &lt;/i&gt;&lt;/b&gt;&lt;/a&gt;
 &lt;/p&gt;
@@ -480,16 +480,16 @@ Screws:  7 - 10 including stubbies.  I guess the number depends on your comfor
 Enjoy! 
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Wed, 16 Nov 2011 02:54:55 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">90 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Rivers of Babylon - A new Route on Mt Wilson</title>
- <link>http://jon.dev10.webenabled.net/2007/10/30/rivers_of_babylon_a_new_route_on_mt_wilson</link>
+ <link>/2007/10/30/rivers_of_babylon_a_new_route_on_mt_wilson</link>
  <description>&lt;img src=&quot;/files/Rivers%20of%20Babylon.jpg&quot; align=&quot;left&quot; /&gt;
 &lt;p&gt;
 &lt;i&gt;
@@ -498,18 +498,18 @@ Rivers of Babylon  VI  M6+  WI5+R  500 m&lt;/i&gt;
 &lt;p&gt;
 On Nov. 26 and 27, Paul McSorley and I climbed a new 9 pitch route on Mt. Wilson in the bowl between Mixed Monster and Ice Nine.  &amp;quot;Rivers of Babylon&amp;quot; is the central line of three ice flows.  The climbing is sustained, technical and fun the entire way.  It was also quite delicate and often run-out.  We climbed mostly rock that traversed left and right on natural weaknesses through the overhanging buttress, for four pitches to gain the thin flow, which provided excellent thin ice and mixed climbing for another five pitches.  Good screws were rare to non existent, however tool placements came easily.  No bolts were placed and the rock is generally excellent by rockies standards.  We fixed three ropes on the first four pitches on day one, descended to Rampart Creek hostel for the night, and the next day ascended our ropes and climbed the rest of the route.  A one day ascent would be impressive, but doable by a very strong party.   This route is probably best earlier in the season and will be extremely dangerous when the avalanche hazard increases.&lt;br /&gt;
 &lt;br /&gt;
-&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/10/30/rivers_of_babylon_a_new_route_on_mt_wilson&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/locations/icefields_parkway">Icefields Parkway</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+&lt;p&gt;&lt;a href=&quot;/2007/10/30/rivers_of_babylon_a_new_route_on_mt_wilson&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/locations/icefields_parkway">Icefields Parkway</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Wed, 31 Oct 2007 01:11:03 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">59 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Drama Queen</title>
- <link>http://jon.dev10.webenabled.net/2007/10/30/drama_queen</link>
+ <link>/2007/10/30/drama_queen</link>
  <description>&lt;p&gt;
 Drama Queen 170m M7 WI6&lt;br /&gt;
 FA: Chris Brazeau, Jon Simms, Jon Walsh Jan 5, 2006&lt;br /&gt;
@@ -520,110 +520,110 @@ Drama Queen is located on the Stanley Headwall about halfway between French Toas
 &lt;/p&gt;
 &lt;p&gt;
 &lt;img src=&quot;/files/drama%20queen.jpg&quot; /&gt;
-&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/10/30/drama_queen&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/locations/stanley_headwall">Stanley Headwall</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+&lt;p&gt;&lt;a href=&quot;/2007/10/30/drama_queen&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/locations/stanley_headwall">Stanley Headwall</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Tue, 30 Oct 2007 19:27:22 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">58 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>The Shadow</title>
- <link>http://jon.dev10.webenabled.net/2007/10/30/the_shadow</link>
+ <link>/2007/10/30/the_shadow</link>
  <description>&lt;p&gt;
 The Shadow  -  WI6+R, M6, 220 meters, Mt. Patterson, Canadian Rockies
-&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/10/30/the_shadow&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/locations/icefields_parkway">Icefields Parkway</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;/2007/10/30/the_shadow&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/locations/icefields_parkway">Icefields Parkway</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Tue, 30 Oct 2007 18:44:15 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">57 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Blaeberry Express</title>
- <link>http://jon.dev10.webenabled.net/2007/09/22/blaeberry_express</link>
+ <link>/2007/09/22/blaeberry_express</link>
  <description>&lt;p&gt;
 Blaeberry Express  -  Hepberg Creek, Blaeberry Valley B.C.   GR975035
 220 m M6 WI 6  -  F.A. Rich Marshall, Jon Walsh  -  Dec 1, 2005
 &lt;/p&gt;
 &lt;p&gt;
 &lt;img src=&quot;/files/BlaeberryExpress.jpg&quot; /&gt; 
-&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://jon.dev10.webenabled.net/2007/09/22/blaeberry_express&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/blaebarry_express">Blaebarry Express</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;/2007/09/22/blaeberry_express&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/blaebarry_express">Blaebarry Express</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Sat, 22 Sep 2007 15:50:01 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">46 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Les Miserables</title>
- <link>http://jon.dev10.webenabled.net/photos/les_miserables</link>
+ <link>/photos/les_miserables</link>
  <description>Guy Lacelle climbing Les Miserables, in Banff National Park.
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
  <pubDate>Sat, 06 Jan 2007 20:07:54 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">37 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Master of Puppets</title>
- <link>http://jon.dev10.webenabled.net/photos/master_of_puppets</link>
+ <link>/photos/master_of_puppets</link>
  <description>Sometimes I find myself on the other side of the lens.  Here it&#039;s climbing one of the most spectacular a pillars I&#039;ve ever climbed, that has only formed during the winter of 04/05.  Master of Puppets is a four pitch route that parralels the Upper Weeping pillar on the Icefileds Parkway, Alberta.  (photo: Paul McSorley)
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/locations/icefields_parkway">Icefields Parkway</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/locations/icefields_parkway">Icefields Parkway</category>
  <pubDate>Sat, 06 Jan 2007 17:32:57 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">21 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Dawn of the Dead</title>
- <link>http://jon.dev10.webenabled.net/photos/dawn_of_the_dead</link>
+ <link>/photos/dawn_of_the_dead</link>
  <description>Chris Brazeau is climbing Dawn of the Dead at the Stanley Headwall.  The Headwall is one of the premier attractions to mixed climbers world wide.
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/locations/stanley_headwall">Stanley Headwall</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/locations/stanley_headwall">Stanley Headwall</category>
  <pubDate>Sat, 06 Jan 2007 17:09:39 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">19 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>The Sorcerer</title>
- <link>http://jon.dev10.webenabled.net/photos/the_sorcerer</link>
+ <link>/photos/the_sorcerer</link>
  <description>Caroline Ware (leading) and Jenn Olson on the fourth pitch of the Sorcerer, a Rockies classic.  I soloed the climb beside them in order to shoot photos. 
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
  <pubDate>Sat, 06 Jan 2007 17:05:05 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">18 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Sea of Vapors</title>
- <link>http://jon.dev10.webenabled.net/photos/sea_of_vapors</link>
+ <link>/photos/sea_of_vapors</link>
  <description>Visiting Swiss ice climber Caroline Ware is toping out on the fourth pitch of &amp;quot;Sea of Vapors&amp;quot;, a world famous ice climb near Banff, Alberta.
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
  <pubDate>Sat, 06 Jan 2007 17:01:47 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">17 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Curtain Call</title>
- <link>http://jon.dev10.webenabled.net/photos/curtain_call</link>
+ <link>/photos/curtain_call</link>
  <description>Rich Marshall sillouetted against a cloud on the classic Curtain Call, a frozen waterfall on the Icefields Parkway, in Jasper National Park, Alberta. 
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
  <pubDate>Thu, 04 Jan 2007 07:35:21 +0000</pubDate>
  <dc:creator>admin</dc:creator>
  <guid isPermaLink="false">5 at http://jon.dev10.webenabled.net</guid>

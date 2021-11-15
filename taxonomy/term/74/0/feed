@@ -2,12 +2,12 @@
 <rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>Alpine Style - Kootenay National Park</title>
- <link>http://jon.dev10.webenabled.net/taxonomy/term/74/0</link>
+ <link>/taxonomy/term/74/0</link>
  <description></description>
  <language>en</language>
 <item>
  <title>Kahveology</title>
- <link>http://jon.dev10.webenabled.net/2015/01/26/kahveology</link>
+ <link>/2015/01/26/kahveology</link>
  <description>&lt;p&gt;
 KAHVEOLOGY - (The science of coffee)&lt;br /&gt;
 160m, M8 WI5  First ascent by Jon Simms and Jon Walsh, Jan 23rd, 2015
@@ -112,11 +112,11 @@ Pitch 4:  25m WI4 - Straight forward ice climbing.  The bolted anchor is about
 &lt;br /&gt;
 &lt;/p&gt;
 </description>
- <category domain="http://jon.dev10.webenabled.net/ice_mixed_climbing_0">Ice / mixed climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
- <category domain="http://jon.dev10.webenabled.net/locations/kootenay_national_park">Kootenay National Park</category>
- <category domain="http://jon.dev10.webenabled.net/locations/storm_creek_headwall">Storm Creek Headwall</category>
- <category domain="http://jon.dev10.webenabled.net/first_ascents">First Ascent</category>
+ <category domain="/ice_mixed_climbing_0">Ice / mixed climbing</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/locations/kootenay_national_park">Kootenay National Park</category>
+ <category domain="/locations/storm_creek_headwall">Storm Creek Headwall</category>
+ <category domain="/first_ascents">First Ascent</category>
  <pubDate>Mon, 26 Jan 2015 04:47:10 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">115 at http://jon.dev10.webenabled.net</guid>

@@ -2,28 +2,28 @@
 <rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>Alpine Style - Ski touring</title>
- <link>http://jon.dev10.webenabled.net/taxonomy/term/17/0</link>
+ <link>/taxonomy/term/17/0</link>
  <description></description>
  <language>en</language>
 <item>
  <title>Rogers Pass to the Bugaboos - light and fast</title>
- <link>http://jon.dev10.webenabled.net/2007/11/06/rogers_pass_to_the_bugaboos_light_and_fast</link>
+ <link>/2007/11/06/rogers_pass_to_the_bugaboos_light_and_fast</link>
  <description>In april 2005, Troy Jungen, Doug Sproul and I skied the most famost famous of the &amp;quot;grand-traverses&amp;quot; in western Canada, in an unprecedented style for such an objective.  The 135 km and 30 something thousand feet of vertical took us 80 hours to complete.  Story and photos to come soon...
 </description>
- <category domain="http://jon.dev10.webenabled.net/ski_touring">Ski touring</category>
- <category domain="http://jon.dev10.webenabled.net/locations/bugaboos">Bugaboos</category>
- <category domain="http://jon.dev10.webenabled.net/locations/rogers_pass">rogers pass</category>
+ <category domain="/ski_touring">Ski touring</category>
+ <category domain="/locations/bugaboos">Bugaboos</category>
+ <category domain="/locations/rogers_pass">rogers pass</category>
  <pubDate>Tue, 06 Nov 2007 18:47:51 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">70 at http://jon.dev10.webenabled.net</guid>
 </item>
 <item>
  <title>Ski touring / Mt Robson</title>
- <link>http://jon.dev10.webenabled.net/photos/ski_touring/ski_touring_mt_robson</link>
+ <link>/photos/ski_touring/ski_touring_mt_robson</link>
  <description>North Face of Mt. Robson dominates the view, as Troy Jungen arrives at the summit of Peak 9200 on the Hargreaves Glacier.  This was the coldest day we&#039;ve ever ski toured, and required down jackets, goggles and mitts, even when going uphill.  
 </description>
- <category domain="http://jon.dev10.webenabled.net/ski_touring">Ski touring</category>
- <category domain="http://jon.dev10.webenabled.net/locations/canadian_rockies">Canadian Rockies</category>
+ <category domain="/ski_touring">Ski touring</category>
+ <category domain="/locations/canadian_rockies">Canadian Rockies</category>
  <pubDate>Thu, 04 Jan 2007 07:45:28 +0000</pubDate>
  <dc:creator>admin</dc:creator>
  <guid isPermaLink="false">7 at http://jon.dev10.webenabled.net</guid>

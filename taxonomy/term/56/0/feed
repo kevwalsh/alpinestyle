@@ -2,17 +2,17 @@
 <rss version="2.0" xml:base="http://jon.dev10.webenabled.net" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>Alpine Style - Coast Mountains</title>
- <link>http://jon.dev10.webenabled.net/taxonomy/term/56/0</link>
+ <link>/taxonomy/term/56/0</link>
  <description></description>
  <language>en</language>
 <item>
  <title>Coiling Rope</title>
- <link>http://jon.dev10.webenabled.net/photos/alpine_climbing/coiling_rope_0</link>
+ <link>/photos/alpine_climbing/coiling_rope_0</link>
  <description>Jia Condon coiling rope on the summit ridge of Mt. Tiedeman, Waddington Range B.C., after making the first free ascent of the Direct South Buttress at 5.11-. It took us 39 hours camp to camp and we only stopped for a 4 hour break to brew water, and wait for an iso-thermic snowfield to re-freeze before crossing it.
 </description>
- <category domain="http://jon.dev10.webenabled.net/alpine_climbing">Alpine climbing</category>
- <category domain="http://jon.dev10.webenabled.net/locations/coast_mountains">Coast Mountains</category>
- <category domain="http://jon.dev10.webenabled.net/locations/mt_waddington">Mt Waddington</category>
+ <category domain="/alpine_climbing">Alpine climbing</category>
+ <category domain="/locations/coast_mountains">Coast Mountains</category>
+ <category domain="/locations/mt_waddington">Mt Waddington</category>
  <pubDate>Fri, 02 Nov 2007 08:09:44 +0000</pubDate>
  <dc:creator>jon walsh</dc:creator>
  <guid isPermaLink="false">66 at http://jon.dev10.webenabled.net</guid>
